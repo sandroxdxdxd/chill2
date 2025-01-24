@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-01-20 18:51:08 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-20 20:20:44 +0000"
@@ -266,6 +278,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-20 21:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -551,6 +569,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-20 19:13:22 +0000"
@@ -821,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-20 20:00:09 +0000"
@@ -870,7 +900,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -1278,7 +1308,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -1528,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-01-20 18:28:42 +0000"
@@ -1680,7 +1716,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -1704,7 +1740,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -1717,6 +1753,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 21:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -1839,7 +1881,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -1864,6 +1906,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-22 03:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -2157,7 +2205,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -2311,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-01-20 19:10:50 +0000"
@@ -2338,6 +2392,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-01-20 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -3070,7 +3130,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -3340,7 +3400,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -3445,6 +3505,12 @@
   "cfm:recipes/cfm/andesite_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-20 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -3601,6 +3667,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-20 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },
@@ -4066,6 +4138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 19:29:48 +0000"
@@ -4074,7 +4152,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -4116,7 +4194,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 13:24:47 +0000"
+      "log_spam_fixer": "2025-01-24 13:54:47 +0000"
     },
     "done": false
   },
@@ -4189,6 +4267,12 @@
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-20 18:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-24 13:40:01 +0000"
     },
     "done": true
   },

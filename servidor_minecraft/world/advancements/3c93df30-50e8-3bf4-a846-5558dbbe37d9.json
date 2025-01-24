@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-24 13:51:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-22 19:12:18 +0000"
@@ -820,8 +826,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-24 13:40:06 +0000",
       "seasonal_forest": "2025-01-22 19:06:14 +0000",
       "pasture": "2025-01-22 19:07:39 +0000",
+      "lavender_field": "2025-01-24 13:39:48 +0000",
       "pumpkin_patch": "2025-01-22 19:04:00 +0000",
       "prairie": "2025-01-22 19:10:12 +0000"
     },
@@ -1200,6 +1208,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-22 19:03:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-24 13:51:06 +0000"
     },
     "done": true
   },
@@ -1911,13 +1925,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-22 19:03:18 +0000",
       "minecraft:deep_ocean": "2025-01-24 02:57:06 +0000",
+      "minecraft:frozen_river": "2025-01-24 13:45:45 +0000",
       "minecraft:sunflower_plains": "2025-01-22 19:08:51 +0000",
       "minecraft:beach": "2025-01-24 02:56:02 +0000",
       "minecraft:river": "2025-01-22 19:07:34 +0000",
       "minecraft:stony_shore": "2025-01-22 18:52:20 +0000",
+      "minecraft:snowy_plains": "2025-01-24 13:45:23 +0000",
       "minecraft:cold_ocean": "2025-01-24 03:06:05 +0000",
       "minecraft:forest": "2025-01-23 01:25:19 +0000",
       "minecraft:deep_cold_ocean": "2025-01-24 02:57:38 +0000",
+      "minecraft:frozen_ocean": "2025-01-24 13:46:31 +0000",
       "minecraft:ocean": "2025-01-24 02:56:29 +0000",
       "minecraft:flower_forest": "2025-01-22 19:10:49 +0000",
       "minecraft:plains": "2025-01-22 18:51:39 +0000"

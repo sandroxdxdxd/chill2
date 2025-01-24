@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-24 13:47:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:40:20 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-21 18:02:05 +0000"
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -341,6 +359,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_crate": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -494,6 +518,12 @@
   "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-22 20:45:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -768,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -930,6 +966,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
@@ -1026,6 +1068,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-01-22 21:22:50 +0000"
@@ -1071,6 +1119,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-22 19:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -1182,6 +1236,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -1218,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:40:20 +0000"
@@ -1239,6 +1305,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -1587,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-24 13:47:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -1812,6 +1890,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-21 18:17:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -2061,6 +2145,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -2170,6 +2260,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -2215,6 +2311,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -2275,6 +2377,12 @@
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -2578,6 +2686,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_picket_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -2740,6 +2854,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -2779,6 +2899,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -2878,6 +3004,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-01-21 18:29:36 +0000"
@@ -2950,6 +3082,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -2974,6 +3112,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-01-21 18:01:11 +0000"
@@ -2989,6 +3133,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
@@ -3061,6 +3211,12 @@
   "farmersdelight:recipes/farmersdelight/tatami": {
     "criteria": {
       "has_canvas": "2025-01-22 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-24 13:49:16 +0000"
     },
     "done": true
   },
