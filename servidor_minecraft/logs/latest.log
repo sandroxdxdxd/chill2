@@ -1,52 +1,52 @@
-[24Jan2025 02:31:54.413] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[24Jan2025 02:31:54.416] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
-[24Jan2025 02:31:54.640] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chill2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[24Jan2025 02:31:55.035] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[24Jan2025 02:31:55.038] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[24Jan2025 02:31:55.041] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[24Jan2025 02:31:55.043] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[24Jan2025 02:31:55.147] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[24Jan2025 02:31:57.732] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jan2025 02:31:57.834] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Jan2025 02:31:57.901] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Jan2025 02:32:07.759] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[24Jan2025 02:32:08.307] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[24Jan2025 02:32:08.307] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[24Jan2025 02:32:12.822] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[24Jan2025 02:32:13.450] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[24Jan2025 02:32:13.721] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[24Jan2025 02:32:13.722] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[24Jan2025 02:32:13.724] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
-[24Jan2025 02:32:13.725] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
-[24Jan2025 02:32:13.726] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[24Jan2025 02:32:13.727] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[24Jan2025 02:32:13.807] [main/INFO] [journeymap/]: Initializing Packet Registries
-[24Jan2025 02:32:13.885] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[24Jan2025 02:32:14.105] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[24Jan2025 02:32:14.126] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[24Jan2025 02:32:14.163] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[24Jan2025 02:32:14.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[24Jan2025 02:32:15.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[24Jan2025 02:32:15.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[24Jan2025 02:32:15.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[24Jan2025 02:32:15.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[24Jan2025 02:32:16.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
-[24Jan2025 02:32:16.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Jan2025 02:32:17.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
-[24Jan2025 02:32:17.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jan2025 02:32:17.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[24Jan2025 02:32:17.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[24Jan2025 02:32:19.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
-[24Jan2025 02:32:21.374] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Jan2025 02:32:24.795] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/assets/.mcassetsroot' uses unexpected schema
-[24Jan2025 02:32:24.798] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/data/.mcassetsroot' uses unexpected schema
-[24Jan2025 02:32:31.212] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Jan2025 02:32:31.213] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Jan2025 02:32:31.229] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Jan2025 02:32:31.231] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Jan2025 02:32:31.232] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Jan2025 02:32:31.236] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Jan2025 02:32:44.193] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe brewinandchewin:kombucha
+[24Jan2025 12:58:48.777] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[24Jan2025 12:58:48.782] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+[24Jan2025 12:58:49.064] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/chill2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[24Jan2025 12:58:49.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[24Jan2025 12:58:49.508] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[24Jan2025 12:58:49.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[24Jan2025 12:58:49.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/chill2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[24Jan2025 12:58:49.631] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[24Jan2025 12:58:52.441] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jan2025 12:58:52.510] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jan2025 12:58:52.598] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jan2025 12:59:01.552] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[24Jan2025 12:59:01.903] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[24Jan2025 12:59:01.903] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[24Jan2025 12:59:05.810] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[24Jan2025 12:59:06.147] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[24Jan2025 12:59:06.270] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[24Jan2025 12:59:06.270] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[24Jan2025 12:59:06.273] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+[24Jan2025 12:59:06.274] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+[24Jan2025 12:59:06.276] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[24Jan2025 12:59:06.276] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[24Jan2025 12:59:06.322] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Jan2025 12:59:06.366] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[24Jan2025 12:59:06.469] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[24Jan2025 12:59:06.486] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[24Jan2025 12:59:06.513] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[24Jan2025 12:59:06.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[24Jan2025 12:59:07.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[24Jan2025 12:59:07.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Jan2025 12:59:08.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[24Jan2025 12:59:08.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[24Jan2025 12:59:08.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre35 Target: 7.0.0-pre35
+[24Jan2025 12:59:08.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Jan2025 12:59:09.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
+[24Jan2025 12:59:09.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jan2025 12:59:09.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[24Jan2025 12:59:09.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[24Jan2025 12:59:10.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
+[24Jan2025 12:59:10.876] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jan2025 12:59:13.160] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/assets/.mcassetsroot' uses unexpected schema
+[24Jan2025 12:59:13.160] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/chill2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2365!/data/.mcassetsroot' uses unexpected schema
+[24Jan2025 12:59:18.584] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Jan2025 12:59:18.590] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Jan2025 12:59:18.593] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24Jan2025 12:59:18.597] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24Jan2025 12:59:18.603] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Jan2025 12:59:18.606] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24Jan2025 12:59:28.425] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe brewinandchewin:kombucha
 com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2365!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -98,391 +98,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[24Jan2025 02:32:44.314] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[24Jan2025 02:32:46.211] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2232 advancements
-[24Jan2025 02:32:46.215] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
-[24Jan2025 02:32:48.160] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
-[24Jan2025 02:32:50.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[24Jan2025 02:32:50.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jan2025 02:32:50.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jan2025 02:32:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jan2025 02:32:51.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jan2025 02:32:51.446] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jan2025 02:32:51.776] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jan2025 02:32:51.777] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jan2025 02:32:51.777] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jan2025 02:32:51.777] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jan2025 02:32:51.853] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jan2025 02:32:51.855] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jan2025 02:32:51.856] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jan2025 02:32:52.487] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[24Jan2025 02:32:52.490] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[24Jan2025 02:32:52.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jan2025 02:32:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jan2025 02:32:55.451] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:55.525] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:55.571] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:55.602] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:55.628] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:55.652] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:56.086] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:56.576] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:57.070] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:57.574] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:58.080] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:32:58.568] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:01.358] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:01.359] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:01.368] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:01.372] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:01.380] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:02.043] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:02.069] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:02.568] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:03.116] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:03.568] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:04.087] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:04.568] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:33:05.072] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[24Jan2025 02:33:05.593] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[24Jan2025 02:33:06.076] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[24Jan2025 02:33:06.568] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[24Jan2025 02:33:07.076] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[24Jan2025 02:33:07.575] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[24Jan2025 02:33:09.939] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[24Jan2025 02:33:09.940] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[24Jan2025 02:33:09.941] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[24Jan2025 02:33:09.943] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[24Jan2025 02:33:10.090] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 17023 ms
-[24Jan2025 02:33:10.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.284s)! For help, type "help"
-[24Jan2025 02:33:10.148] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jan2025 02:33:15.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@473d9857
-[24Jan2025 02:33:15.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:59329] logged in with entity id 172 at (267.46720218062956, 63.0, -1069.699999988079)
-[24Jan2025 02:33:15.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
-[24Jan2025 02:33:16.103] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
-[24Jan2025 02:33:29.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13699ms or 273 ticks behind
-[24Jan2025 02:33:31.238] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b0c56e7
-[24Jan2025 02:33:31.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.38.179.237:58739] logged in with entity id 179 at (334.6871739463924, 65.0, -1305.2985937793242)
-[24Jan2025 02:33:31.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
-[24Jan2025 02:33:31.366] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
-[24Jan2025 02:33:38.625] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63205920
-[24Jan2025 02:33:38.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:40041] logged in with entity id 188 at (390.9385583984795, 68.0, -1373.997435287495)
-[24Jan2025 02:33:38.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
-[24Jan2025 02:33:38.799] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
-[24Jan2025 02:33:47.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/395, l='ServerLevel[world]', x=335.55, y=66.00, z=-1128.98]
-[24Jan2025 02:33:55.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/480, l='ServerLevel[world]', x=254.53, y=70.00, z=-1137.56]
-[24Jan2025 02:34:03.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19335ms or 386 ticks behind
-[24Jan2025 02:34:12.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Spectator Mode]
-[24Jan2025 02:34:13.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[24Jan2025 02:34:17.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[24Jan2025 02:34:21.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Best Friends Forever]
-[24Jan2025 02:39:00.936] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ce61602
-[24Jan2025 02:39:00.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:35289] logged in with entity id 1531 at (302.2113846651071, 64.0, -1307.8690351650023)
-[24Jan2025 02:39:00.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
-[24Jan2025 02:39:00.968] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
-[24Jan2025 02:42:02.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> oe toño simp, no te vayas de la llamada ps xd
-[24Jan2025 02:42:12.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> aea
-[24Jan2025 02:42:24.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> recien me doy cuenta
-[24Jan2025 02:42:25.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 02:44:06.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was blown up by Creeper Cena
-[24Jan2025 02:44:10.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 02:44:19.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> como me mato desde tan lejos?
-[24Jan2025 02:44:21.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> por simp xd
-[24Jan2025 02:44:43.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> covid le subiste la dificultad?
-[24Jan2025 02:44:56.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> eso parecia un creeper cargado ._.
-[24Jan2025 02:44:57.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> pero usa tu escudo psxd
-[24Jan2025 02:45:04.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> siempre estuvo subida de plano XD
-[24Jan2025 02:45:19.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> eso antes no me mataba ._.
-[24Jan2025 02:46:03.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> toño covid tiene 5 fantasmas xd, vamos a dormir xd
-[24Jan2025 02:46:13.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was shot by Skeleton
-[24Jan2025 02:46:17.494] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13da4108
-[24Jan2025 02:46:17.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:54101] logged in with entity id 2788 at (818.6999999880791, 58.0, -1560.4196522681034)
-[24Jan2025 02:46:17.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
-[24Jan2025 02:46:17.515] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
-[24Jan2025 02:46:26.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Duermance por favor
-[24Jan2025 02:46:30.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman mrd
-[24Jan2025 02:46:39.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduerme sebas
-[24Jan2025 02:46:45.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Duerman D:
-[24Jan2025 02:46:52.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sebas
-[24Jan2025 02:46:54.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerme
-[24Jan2025 02:46:54.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> porque siento que hacen mas daño? ._.
-[24Jan2025 02:46:54.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[24Jan2025 02:47:08.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Duermeeeeeee
-[24Jan2025 02:47:11.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sebas
-[24Jan2025 02:47:15.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ItsSebas
-[24Jan2025 02:47:24.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[24Jan2025 02:47:34.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no terngo cama xdxdxd
-[24Jan2025 02:47:44.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 02:47:48.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[24Jan2025 02:47:49.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[24Jan2025 02:47:55.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Casa si tiene pero cama no
-[24Jan2025 02:47:58.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> pa la mrd
-[24Jan2025 02:48:01.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDDDDDDDDDd
-[24Jan2025 02:48:08.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> jajajaja
-[24Jan2025 02:48:09.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no te he dado la confianza
-[24Jan2025 02:48:13.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 02:48:14.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> >:c
-[24Jan2025 02:48:15.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
-[24Jan2025 02:48:21.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> banealo xd
-[24Jan2025 02:48:22.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
-[24Jan2025 02:48:27.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
-[24Jan2025 02:48:31.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> vamo a nether xd
-[24Jan2025 02:48:33.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> donde estaré o :c
-[24Jan2025 02:49:15.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> donde estas sebas? xd
-[24Jan2025 02:49:40.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4366, l='ServerLevel[world]', x=649.50, y=73.00, z=-1625.50]
-[24Jan2025 02:50:05.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> vamos
-[24Jan2025 02:50:15.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> voy a conseguir full diamante primero
-[24Jan2025 02:50:19.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4928, l='ServerLevel[world]', x=649.50, y=73.00, z=-1626.50]
-[24Jan2025 02:50:20.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> aea
-[24Jan2025 02:54:57.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/6994, l='ServerLevel[world]', x=297.50, y=77.00, z=-1518.50]
-[24Jan2025 02:56:10.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7504, l='ServerLevel[world]', x=311.50, y=76.00, z=-1524.50]
-[24Jan2025 02:56:23.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=602, y=64, z=-1430} BlockPos{x=602, y=62, z=-1431}
-[24Jan2025 02:57:54.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas moved wrongly!
-[24Jan2025 02:57:55.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Pig
-[24Jan2025 02:57:59.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
-[24Jan2025 02:58:00.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
-[24Jan2025 02:58:01.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDD
-[24Jan2025 02:58:04.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 02:58:13.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Guardian
-[24Jan2025 02:58:22.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Guardian
-[24Jan2025 02:58:40.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> un choro
-[24Jan2025 02:58:44.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ayuda
-[24Jan2025 02:58:44.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> DONDE
-[24Jan2025 02:58:51.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDD
-[24Jan2025 02:59:05.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> te di semillas :´v
-[24Jan2025 02:59:08.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> encontre templo en el mar xD
-[24Jan2025 02:59:21.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
-[24Jan2025 02:59:26.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> altoque
-[24Jan2025 02:59:28.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> chapen al choro
-[24Jan2025 02:59:35.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> es que alguien no tiene cama
-[24Jan2025 02:59:35.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> toy mimido
-[24Jan2025 02:59:40.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 02:59:45.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDDDDD
-[24Jan2025 03:00:11.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Zombie
-[24Jan2025 03:00:18.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
-[24Jan2025 03:00:23.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> txd
-[24Jan2025 03:01:08.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
-[24Jan2025 03:01:14.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduerman
-[24Jan2025 03:01:28.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tsebas ven a llamada
-[24Jan2025 03:01:41.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta dormir?
-[24Jan2025 03:01:44.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yo
-[24Jan2025 03:01:48.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tcovid tmb
-[24Jan2025 03:01:50.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> tengo 40 zombies :´v
-[24Jan2025 03:01:53.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> me salgo, mucho moustro jode XD
-[24Jan2025 03:01:54.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> covid le robo la cama
-[24Jan2025 03:01:55.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDD
-[24Jan2025 03:02:06.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerman
-[24Jan2025 03:02:14.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas salgamos pa dormir
-[24Jan2025 03:02:15.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no puedom
-[24Jan2025 03:02:18.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
-[24Jan2025 03:02:18.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
-[24Jan2025 03:02:21.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 lost connection: Disconnected
-[24Jan2025 03:02:21.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 left the game
-[24Jan2025 03:02:24.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduermen
-[24Jan2025 03:02:40.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b0bf45b
-[24Jan2025 03:02:40.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:48443] logged in with entity id 11599 at (397.30000001192093, 62.0, -1378.300000011921)
-[24Jan2025 03:02:40.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
-[24Jan2025 03:02:40.734] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
-[24Jan2025 03:04:00.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Zombie
-[24Jan2025 03:06:16.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72c51f6b
-[24Jan2025 03:06:16.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:47325] logged in with entity id 13678 at (556.3338798570984, 61.0, -1388.5064143654397)
-[24Jan2025 03:06:16.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
-[24Jan2025 03:06:16.650] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
-[24Jan2025 03:06:20.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Timed out
-[24Jan2025 03:06:20.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
-[24Jan2025 03:06:20.836] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Jan2025 03:06:30.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sebas que ases por la vida?
-[24Jan2025 03:06:36.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> si
-[24Jan2025 03:06:39.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55e5b4f2
-[24Jan2025 03:06:39.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.38.179.237:57031] logged in with entity id 14076 at (312.86317791972147, 62.07326432466507, -2131.1452637533253)
-[24Jan2025 03:06:39.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
-[24Jan2025 03:06:39.522] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
-[24Jan2025 03:06:55.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas, ven a mi caas
-[24Jan2025 03:07:01.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> pa construir
-[24Jan2025 03:07:14.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ayuda estoy con 5 creepers xdxdxd
-[24Jan2025 03:07:21.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> te va usar y luego te va votar
-[24Jan2025 03:08:53.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sube
-[24Jan2025 03:09:00.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was impaled by Drowned
-[24Jan2025 03:09:06.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was impaled by Drowned
-[24Jan2025 03:09:09.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> oa
-[24Jan2025 03:09:18.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> te presentyo mi casa
-[24Jan2025 03:09:23.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> bien bien
-[24Jan2025 03:09:37.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> tienes pieda profunda?
-[24Jan2025 03:09:49.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> nom
-[24Jan2025 03:09:52.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:09:59.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> lo deje en la otra casa xdxdxdxd
-[24Jan2025 03:10:34.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas, ve pa la casa del leon pa que te de la piedra
-[24Jan2025 03:10:40.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> baja papu
-[24Jan2025 03:10:42.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ia
-[24Jan2025 03:11:09.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ve al frente, ahi tiene
-[24Jan2025 03:12:47.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was impaled by Drowned
-[24Jan2025 03:12:53.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no tiene oe xdxd
-[24Jan2025 03:12:55.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[24Jan2025 03:13:00.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sube xd
-[24Jan2025 03:13:05.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> q
-[24Jan2025 03:13:09.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> aaa
-[24Jan2025 03:13:12.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> aca arriba x
-[24Jan2025 03:13:13.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me equivoque de casa
-[24Jan2025 03:13:14.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 03:13:16.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XD
-[24Jan2025 03:13:17.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Drowned
-[24Jan2025 03:13:48.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
-[24Jan2025 03:14:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> es todo xd
-[24Jan2025 03:14:02.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> salta
-[24Jan2025 03:14:09.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> salta
-[24Jan2025 03:14:14.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
-[24Jan2025 03:14:36.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ed4970a
-[24Jan2025 03:14:36.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: K4mika[/127.107.177.30:34217] logged in with entity id 17450 at (-8.5, 81.0, 10.5)
-[24Jan2025 03:14:36.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika joined the game
-[24Jan2025 03:14:36.147] [Server thread/INFO] [Waila/]: Syncing config to K4mika (88dcc7ee-ecb9-3d21-8a8e-d13b235276e3)
-[24Jan2025 03:14:45.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman mrd
-[24Jan2025 03:14:54.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> lol
-[24Jan2025 03:15:22.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> se vale dormir
-[24Jan2025 03:15:26.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> es gratis
-[24Jan2025 03:15:28.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[24Jan2025 03:15:30.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
-[24Jan2025 03:15:36.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> me sale caro
-[24Jan2025 03:15:58.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:16:05.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman altoque p
-[24Jan2025 03:16:15.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> aea XD
-[24Jan2025 03:16:19.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
-[24Jan2025 03:16:35.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Drowned
-[24Jan2025 03:16:42.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman
-[24Jan2025 03:16:47.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=80, z=9}
-[24Jan2025 03:17:05.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman p
-[24Jan2025 03:17:08.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:09.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> covid si duermes Kamikaze te dara tu real regalo (ya sabes que) por cumpleaños
-[24Jan2025 03:17:09.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:11.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> duerman
-[24Jan2025 03:17:14.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:16.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:17.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:19.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
-[24Jan2025 03:17:22.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
-[24Jan2025 03:17:23.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> x 344 z -1356
-[24Jan2025 03:17:37.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta dormir?
-[24Jan2025 03:17:40.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> x:390 z:'1379, y:78
-[24Jan2025 03:17:54.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yo ya estoy
-[24Jan2025 03:17:57.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> x2
-[24Jan2025 03:18:02.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> falta kami xd
-[24Jan2025 03:18:06.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> csmr
-[24Jan2025 03:18:16.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> kamiduerme
-[24Jan2025 03:18:17.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> kamikaze duerme
-[24Jan2025 03:18:19.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Esta el kabro de kami?
-[24Jan2025 03:18:23.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: K4mika lost connection: Disconnected
-[24Jan2025 03:18:23.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika left the game
-[24Jan2025 03:18:31.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman
-[24Jan2025 03:18:34.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
-[24Jan2025 03:18:35.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> quien falta?
-[24Jan2025 03:18:41.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ItsSebas
-[24Jan2025 03:18:43.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas duerme
-[24Jan2025 03:18:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDD
-[24Jan2025 03:18:46.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya ta
-[24Jan2025 03:18:54.634] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d177bef
-[24Jan2025 03:18:54.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: K4mika[/127.107.177.30:43215] logged in with entity id 19105 at (38.90105698004458, 104.0, -172.96396501739562)
-[24Jan2025 03:18:54.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika joined the game
-[24Jan2025 03:18:54.650] [Server thread/INFO] [Waila/]: Syncing config to K4mika (88dcc7ee-ecb9-3d21-8a8e-d13b235276e3)
-[24Jan2025 03:19:09.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> kamiiiiiiiiii
-[24Jan2025 03:19:20.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> kase
-[24Jan2025 03:19:30.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> ayuda muchachos
-[24Jan2025 03:19:35.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> no
-[24Jan2025 03:19:37.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ayudate solo
-[24Jan2025 03:19:38.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> me esta persiguiendo un pollo
-[24Jan2025 03:19:40.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[24Jan2025 03:19:46.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
-[24Jan2025 03:19:58.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[24Jan2025 03:20:18.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya ta XD
-[24Jan2025 03:20:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was pummeled by Spider
-[24Jan2025 03:20:39.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> voy por kami, sebas, ve armando el techo pe
-[24Jan2025 03:20:40.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
-[24Jan2025 03:20:59.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> a techar obreros
-[24Jan2025 03:21:02.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> con la piedra no? xdxdxdxd
-[24Jan2025 03:21:11.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Donkey
-[24Jan2025 03:21:15.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
-[24Jan2025 03:21:15.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDDDDDDDD
-[24Jan2025 03:21:16.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDDDD
-[24Jan2025 03:21:16.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:21:17.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> XDD
-[24Jan2025 03:21:18.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 03:21:20.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> JAJAJAJAJAJA
-[24Jan2025 03:21:24.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> de un burro ps
-[24Jan2025 03:21:35.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Chicken
-[24Jan2025 03:21:37.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> un burro se lo cargo xd
-[24Jan2025 03:21:45.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was impaled by Drowned
-[24Jan2025 03:21:49.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Drowned
-[24Jan2025 03:24:04.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Stone Age]
-[24Jan2025 03:24:35.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Getting an Upgrade]
-[24Jan2025 03:25:03.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Enderman
-[24Jan2025 03:26:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Drowned
-[24Jan2025 03:28:50.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Cover Me with Diamonds]
-[24Jan2025 03:28:54.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Isn't It Iron Pick]
-[24Jan2025 03:28:55.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.45939760071041746
-[24Jan2025 03:28:55.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.5511772807144553
-[24Jan2025 03:28:55.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.8812672591438968
-[24Jan2025 03:28:55.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 1.2122445700551907
-[24Jan2025 03:28:56.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 1.2597912244218605
-[24Jan2025 03:29:15.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Acquire Hardware]
-[24Jan2025 03:29:20.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Hunt and Gather]
-[24Jan2025 03:30:45.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.4332285650759786
-[24Jan2025 03:30:45.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.5665243936057323
-[24Jan2025 03:30:45.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.8075353805379564
-[24Jan2025 03:30:45.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.6925750525695094
-[24Jan2025 03:30:45.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.9429260618103399
-[24Jan2025 03:30:51.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.28088920851860166
-[24Jan2025 03:30:51.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.574862189550231
-[24Jan2025 03:31:26.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30362, l='ServerLevel[world]', x=526.50, y=73.00, z=-1545.50]
-[24Jan2025 03:31:38.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/30443, l='ServerLevel[world]', x=534.50, y=72.00, z=-1553.50]
-[24Jan2025 03:32:05.223] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/31566, l='ServerLevel[world]', x=534.50, y=72.00, z=-1551.50]
-[24Jan2025 03:32:41.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was blown up by Creeper
-[24Jan2025 03:33:21.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Monster Hunter]
-[24Jan2025 03:33:28.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was shot by Skeleton
-[24Jan2025 03:34:13.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Spider
-[24Jan2025 03:34:16.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:34:18.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Sweet Dreams]
-[24Jan2025 03:34:23.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya vine a la casa
-[24Jan2025 03:34:32.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> aya
-[24Jan2025 03:35:17.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was shot by Skeleton
-[24Jan2025 03:36:20.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman
-[24Jan2025 03:36:20.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerman
-[24Jan2025 03:36:33.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> dwwwww
-[24Jan2025 03:36:38.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman oe
-[24Jan2025 03:36:42.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> esa es mi cAMA
-[24Jan2025 03:36:43.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> OE
-[24Jan2025 03:36:49.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
-[24Jan2025 03:36:54.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdxdxd
-[24Jan2025 03:36:54.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> oe y mi cama
-[24Jan2025 03:37:01.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no che
-[24Jan2025 03:37:04.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> a ca taba XD
-[24Jan2025 03:37:12.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> zmzmzmzmzmzmz
-[24Jan2025 03:37:14.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> mimido
-[24Jan2025 03:37:22.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ZZzZzZZ
-[24Jan2025 03:37:34.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tortolos duerman
-[24Jan2025 03:37:48.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> cami duerme
-[24Jan2025 03:38:10.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> estoy en un 1 vs 20 y quieres que duerma?
-[24Jan2025 03:38:12.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> :v
-[24Jan2025 03:38:17.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> txd
-[24Jan2025 03:38:20.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> saltee entonces
-[24Jan2025 03:38:51.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:38:58.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> covid
-[24Jan2025 03:39:15.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> o si sebas, sigue haciendolo, digo digo Xd
-[24Jan2025 03:39:19.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
-[24Jan2025 03:39:22.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
-[24Jan2025 03:39:25.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no hay piedra xdxdxdxd
-[24Jan2025 03:39:52.173] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36968, l='ServerLevel[world]', x=667.50, y=71.00, z=-1624.50]
-[24Jan2025 03:39:59.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/36996, l='ServerLevel[world]', x=563.50, y=71.00, z=-1567.50]
-[24Jan2025 03:40:05.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> me voy a conseguir piedra
-[24Jan2025 03:40:08.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya
-[24Jan2025 03:40:14.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika has made the advancement [Suit Up]
-[24Jan2025 03:40:36.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37302, l='ServerLevel[world]', x=667.50, y=71.00, z=-1625.50]
-[24Jan2025 03:40:38.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37321, l='ServerLevel[world]', x=561.50, y=71.00, z=-1567.50]
-[24Jan2025 03:40:48.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> no hay XD
-[24Jan2025 03:40:56.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> si
-[24Jan2025 03:41:01.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika fell from a high place
-[24Jan2025 03:41:21.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> aqui XD
-[24Jan2025 03:41:35.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ahi esta
-[24Jan2025 03:41:39.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/37732, l='ServerLevel[world]', x=650.50, y=73.00, z=-1624.50]
-[24Jan2025 03:41:47.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya te tire el bloque de carbon
-[24Jan2025 03:41:52.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
-[24Jan2025 03:42:42.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/38260, l='ServerLevel[world]', x=535.50, y=72.00, z=-1553.50]
-[24Jan2025 03:42:47.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=67, z=-1389} BlockPos{x=396, y=67, z=-1389}
+[24Jan2025 12:59:28.518] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[24Jan2025 12:59:30.097] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2232 advancements
+[24Jan2025 12:59:30.104] [Worker-Main-6/INFO] [Dungeon Crawl/]: Loading data...
+[24Jan2025 12:59:31.627] [Worker-Main-6/INFO] [Dungeon Crawl/]: Done.
+[24Jan2025 12:59:33.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[24Jan2025 12:59:33.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jan2025 12:59:33.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jan2025 12:59:33.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jan2025 12:59:34.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jan2025 12:59:34.135] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jan2025 12:59:34.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jan2025 12:59:34.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jan2025 12:59:34.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jan2025 12:59:34.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jan2025 12:59:34.403] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jan2025 12:59:34.403] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jan2025 12:59:34.404] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jan2025 12:59:35.080] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[24Jan2025 12:59:35.084] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[24Jan2025 12:59:35.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jan2025 12:59:35.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jan2025 12:59:37.264] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:37.286] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:37.298] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:37.319] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:37.437] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.022] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.026] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.031] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.042] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.045] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.059] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.063] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:41.428] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:42.003] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:42.428] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:42.928] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 12:59:43.430] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[24Jan2025 12:59:43.927] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[24Jan2025 12:59:44.428] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[24Jan2025 12:59:44.933] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[24Jan2025 12:59:44.957] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[24Jan2025 12:59:45.427] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[24Jan2025 12:59:45.927] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[24Jan2025 12:59:46.428] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[24Jan2025 12:59:47.160] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
+[24Jan2025 12:59:47.664] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12238 ms
+[24Jan2025 12:59:47.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.291s)! For help, type "help"
+[24Jan2025 12:59:47.692] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jan2025 13:03:26.909] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37736dee
+[24Jan2025 13:03:26.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:55953] logged in with entity id 176 at (588.6999999880791, 61.0, -1571.8503188935538)
+[24Jan2025 13:03:26.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[24Jan2025 13:03:27.028] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[24Jan2025 13:03:31.638] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49ede191
+[24Jan2025 13:03:31.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.38.179.237:32875] logged in with entity id 424 at (589.5437455855458, 62.0, -1571.326285376833)
+[24Jan2025 13:03:31.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[24Jan2025 13:03:31.729] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[24Jan2025 13:04:45.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2569, l='ServerLevel[world]', x=665.50, y=71.00, z=-1625.50]
+[24Jan2025 13:04:45.995] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2575, l='ServerLevel[world]', x=561.50, y=71.00, z=-1566.50]
+[24Jan2025 13:05:52.717] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f3efcf5
+[24Jan2025 13:05:52.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:48715] logged in with entity id 3917 at (383.30000001192093, -1.0, -1401.699999988079)
+[24Jan2025 13:05:52.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
+[24Jan2025 13:05:52.743] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
