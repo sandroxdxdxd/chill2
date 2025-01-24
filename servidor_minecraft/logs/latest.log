@@ -765,3 +765,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 16:18:11.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was slain by Zombie
 [24Jan2025 16:18:16.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper Cena
 [24Jan2025 16:18:28.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper
+[24Jan2025 16:23:10.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper
+[24Jan2025 16:23:23.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[24Jan2025 16:23:23.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[24Jan2025 16:23:23.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack lost connection: Timed out
+[24Jan2025 16:23:23.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack left the game
+[24Jan2025 16:23:25.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1afa243c
+[24Jan2025 16:23:25.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobZack[/127.138.17.159:46097] logged in with entity id 128166 at (478.36691879945147, 69.24918707874468, -1454.4072540288007)
+[24Jan2025 16:23:25.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack joined the game
+[24Jan2025 16:23:25.817] [Server thread/INFO] [Waila/]: Syncing config to NoobZack (3ec1033e-f14a-354a-83e0-8243d7ea26f4)
+[24Jan2025 16:23:26.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has reached the goal [Dinner's Served!]
+[24Jan2025 16:23:37.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@279f867
+[24Jan2025 16:23:37.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:43767] logged in with entity id 128649 at (491.9452258121123, 64.0, -1522.2618994348886)
+[24Jan2025 16:23:37.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[24Jan2025 16:23:37.021] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[24Jan2025 16:23:37.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> leon tiene hilo que te sobre?
+[24Jan2025 16:25:31.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[24Jan2025 16:25:31.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[24Jan2025 16:25:33.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> covid tienes hilo?
+[24Jan2025 16:26:03.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack moved too quickly! -10.16785952415637,0.0,0.07010367147995566
+[24Jan2025 16:27:13.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[24Jan2025 16:27:13.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[24Jan2025 16:27:25.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack lost connection: Disconnected
+[24Jan2025 16:27:25.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack left the game
+[24Jan2025 16:27:31.055] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@323af3c6
+[24Jan2025 16:27:31.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobZack[/127.138.17.159:34707] logged in with entity id 131361 at (465.8834362729988, 70.0, -1465.1424335080696)
+[24Jan2025 16:27:31.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack joined the game
+[24Jan2025 16:27:31.069] [Server thread/INFO] [Waila/]: Syncing config to NoobZack (3ec1033e-f14a-354a-83e0-8243d7ea26f4)
+[24Jan2025 16:28:46.458] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4554a57d
+[24Jan2025 16:28:46.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:38631] logged in with entity id 131849 at (489.8053391113165, 64.0, -1517.2821777154177)
+[24Jan2025 16:28:46.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[24Jan2025 16:28:46.469] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[24Jan2025 16:30:28.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[24Jan2025 16:30:28.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
