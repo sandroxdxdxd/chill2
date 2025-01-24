@@ -3718,6 +3718,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-01-24 02:37:13 +0000",
       "wheat": "2025-01-23 01:12:36 +0000"
     },
     "done": false
