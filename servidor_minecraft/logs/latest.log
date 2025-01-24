@@ -412,3 +412,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 14:17:58.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ya vuelvo
 [24Jan2025 14:19:16.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> yasta
 [24Jan2025 14:19:44.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> no se, ando viendo el mapa
+[24Jan2025 14:20:01.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Elcovid19]
+[24Jan2025 14:20:17.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> estaba cerca de mi cuerpo ya xd
+[24Jan2025 14:20:22.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> y me tepeas XD
+[24Jan2025 14:20:48.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:21:32.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> es de toño
+[24Jan2025 14:21:40.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.3475587167656613
+[24Jan2025 14:21:41.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.3004695158550703
+[24Jan2025 14:21:44.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.49453418253494874
+[24Jan2025 14:22:03.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> el caballo es de toño
+[24Jan2025 14:22:07.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.4890414201558997
+[24Jan2025 14:22:07.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.49443142015593367
+[24Jan2025 14:22:07.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.49443142015593367
+[24Jan2025 14:22:15.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 0.3125052139218951
+[24Jan2025 14:22:15.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheLeonel51) moved wrongly! 1.0078284560553357
+[24Jan2025 14:23:13.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:23:16.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was pummeled by Spider
+[24Jan2025 14:23:19.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:23:41.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Zombie
+[24Jan2025 14:23:44.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was blown up by Creeper
+[24Jan2025 14:24:11.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:24:18.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was blown up by Creeper
+[24Jan2025 14:24:22.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito moved wrongly!
+[24Jan2025 14:24:22.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:24:24.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xD
+[24Jan2025 14:24:44.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XD
+[24Jan2025 14:24:51.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 14:25:01.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was pummeled by Spider
+[24Jan2025 14:25:31.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported ItsSebas to Elcovid19]
+[24Jan2025 14:25:44.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Elcovid19
+[24Jan2025 14:26:00.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported ItsSebas to Elcovid19]
+[24Jan2025 14:26:34.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Elcovid19]
+[24Jan2025 14:26:34.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was blown up by Creeper
+[24Jan2025 14:26:46.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Elcovid19]
+[24Jan2025 14:26:48.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was shot by Skeleton
+[24Jan2025 14:27:08.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported NoobZack to Elcovid19]
+[24Jan2025 14:27:09.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was shot by Skeleton
+[24Jan2025 14:27:38.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> tp tp tp
+[24Jan2025 14:27:55.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported NoobZack to Elcovid19]
+[24Jan2025 14:27:55.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Zombie
+[24Jan2025 14:27:57.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Elcovid19]
+[24Jan2025 14:28:29.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack moved wrongly!
+[24Jan2025 14:28:32.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was blown up by Creeper
+[24Jan2025 14:28:37.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Drowned
+[24Jan2025 14:28:45.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was blown up by Creeper
+[24Jan2025 14:28:51.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 14:28:52.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 14:28:53.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 14:29:18.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 14:29:29.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Drowned
+[24Jan2025 14:29:58.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was shot by Skeleton
