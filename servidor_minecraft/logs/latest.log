@@ -832,3 +832,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 17:12:52.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
 [24Jan2025 17:12:52.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
 [24Jan2025 17:19:16.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was doomed to fall by Cow
+[24Jan2025 17:22:47.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Drowned
+[24Jan2025 17:29:50.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.2951066538636269
+[24Jan2025 17:29:50.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.49460609384072995
+[24Jan2025 17:29:51.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.5345866767336247
+[24Jan2025 17:29:51.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.6105515341633918
+[24Jan2025 17:29:51.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.6700846050985092
