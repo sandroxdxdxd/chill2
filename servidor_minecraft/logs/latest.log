@@ -161,3 +161,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 13:05:52.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:48715] logged in with entity id 3917 at (383.30000001192093, -1.0, -1401.699999988079)
 [24Jan2025 13:05:52.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
 [24Jan2025 13:05:52.743] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
+[24Jan2025 13:09:10.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Creeper Cena'/8301, l='ServerLevel[world]', x=603.42, y=26.48, z=-1517.58] died: Creeper Cena tried to swim in lava
+[24Jan2025 13:09:13.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/8636, l='ServerLevel[world]', x=695.50, y=70.00, z=-1630.50]
+[24Jan2025 13:11:13.220] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b3975fb
+[24Jan2025 13:11:13.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:34431] logged in with entity id 10766 at (337.92557609610884, 99.0, -1359.3364236648733)
+[24Jan2025 13:11:13.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[24Jan2025 13:11:13.247] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[24Jan2025 13:13:00.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[24Jan2025 13:13:03.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 13:13:04.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 13:13:06.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 13:13:06.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 13:13:43.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 13:14:55.967] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ff4664a
+[24Jan2025 13:14:55.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:49691] logged in with entity id 13688 at (410.37520275148466, 67.0, -1394.8605122246804)
+[24Jan2025 13:14:55.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
+[24Jan2025 13:14:55.993] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[24Jan2025 13:15:04.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 fell from a high place
+[24Jan2025 13:15:56.257] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ea4f99f
+[24Jan2025 13:15:56.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nonly[/127.138.17.159:52497] logged in with entity id 15368 at (-5.5, 83.0, 0.5)
+[24Jan2025 13:15:56.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nonly joined the game
+[24Jan2025 13:15:56.281] [Server thread/INFO] [Waila/]: Syncing config to Nonly (55955a6c-1df5-38bf-975a-22540d82deac)
+[24Jan2025 13:16:48.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was doomed to fall by Skeleton
+[24Jan2025 13:16:59.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Disconnected
+[24Jan2025 13:16:59.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[24Jan2025 13:17:14.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Disconnected
+[24Jan2025 13:17:14.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[24Jan2025 13:17:18.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nonly lost connection: Disconnected
+[24Jan2025 13:17:18.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nonly left the game
+[24Jan2025 13:17:37.258] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77d6405a
+[24Jan2025 13:17:37.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nonly[/127.138.17.159:45661] logged in with entity id 18708 at (-86.59257924654058, 97.0, -182.32575478300143)
+[24Jan2025 13:17:37.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nonly joined the game
+[24Jan2025 13:17:37.273] [Server thread/INFO] [Waila/]: Syncing config to Nonly (55955a6c-1df5-38bf-975a-22540d82deac)
+[24Jan2025 13:17:39.163] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@872a127
+[24Jan2025 13:17:39.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:44227] logged in with entity id 18864 at (232.83995112846512, 61.0, -1340.4549025887477)
+[24Jan2025 13:17:39.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
+[24Jan2025 13:17:39.183] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[24Jan2025 13:17:43.160] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7286d6bd
+[24Jan2025 13:17:43.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:37407] logged in with entity id 19087 at (-1.5563610464707203, 83.0, -5.520726181639246)
+[24Jan2025 13:17:43.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[24Jan2025 13:17:43.184] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[24Jan2025 13:18:04.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/20065, l='ServerLevel[world]', x=106.45, y=65.90, z=-1272.48]
+[24Jan2025 13:18:21.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was blown up by Creeper
+[24Jan2025 13:18:30.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 was kicked for floating too long!
+[24Jan2025 13:18:30.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Flying is not enabled on this server
+[24Jan2025 13:18:30.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[24Jan2025 13:18:30.493] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 13:18:31.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> lo detonaron
+[24Jan2025 13:18:45.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73035055
+[24Jan2025 13:18:45.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:34805] logged in with entity id 21626 at (284.68328051334595, 41.00133597911215, -1337.4716197692276)
+[24Jan2025 13:18:45.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[24Jan2025 13:18:45.497] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[24Jan2025 13:19:28.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported TheLeonel51 to Elcovid19]
+[24Jan2025 13:19:45.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Antonio_0610]
+[24Jan2025 13:20:59.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nonly lost connection: Disconnected
+[24Jan2025 13:20:59.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nonly left the game
+[24Jan2025 13:21:49.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was doomed to fall by Zombie
+[24Jan2025 13:21:56.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> a
+[24Jan2025 13:21:57.862] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@361ebd8f
+[24Jan2025 13:21:57.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobZack[/127.138.17.159:53395] logged in with entity id 26954 at (6.5, 80.0, -9.5)
+[24Jan2025 13:21:57.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack joined the game
+[24Jan2025 13:21:57.883] [Server thread/INFO] [Waila/]: Syncing config to NoobZack (3ec1033e-f14a-354a-83e0-8243d7ea26f4)
+[24Jan2025 13:22:05.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 13:22:15.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Teleported Mau_Mayito to Antonio_0610]
+[24Jan2025 13:23:25.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 13:23:28.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack has made the advancement [Stone Age]
+[24Jan2025 13:23:37.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack has made the advancement [Getting an Upgrade]
+[24Jan2025 13:24:13.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@437865e0
+[24Jan2025 13:24:13.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:44875] logged in with entity id 29819 at (495.9480575375393, 70.0, -1521.4589784583175)
+[24Jan2025 13:24:13.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[24Jan2025 13:24:13.945] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[24Jan2025 13:24:31.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya llegué
+[24Jan2025 13:25:24.180] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-306, y=0, z=66}
+[24Jan2025 13:25:24.181] [Worker-Main-15/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-306, 0, 66)
+[24Jan2025 13:25:24.181] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-306, y=0, z=66}
+[24Jan2025 13:28:22.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack lost connection: Disconnected
+[24Jan2025 13:28:22.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack left the game
