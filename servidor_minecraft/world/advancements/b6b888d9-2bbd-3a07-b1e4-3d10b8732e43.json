@@ -2285,6 +2285,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-24 03:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-20 21:43:52 +0000"
@@ -2846,6 +2852,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-01-21 16:28:59 +0000",
+      "orchard": "2025-01-24 03:31:20 +0000",
       "spider_nest": "2025-01-21 17:32:20 +0000",
       "seasonal_forest": "2025-01-20 19:08:12 +0000",
       "pasture": "2025-01-21 17:00:12 +0000",
@@ -4148,6 +4155,12 @@
   "cfm:recipes/cfm/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-20 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-24 03:29:36 +0000"
     },
     "done": true
   },
