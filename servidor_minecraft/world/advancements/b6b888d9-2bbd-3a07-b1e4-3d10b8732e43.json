@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-24 02:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 19:51:08 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-20 19:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-24 02:57:35 +0000"
     },
     "done": true
   },
@@ -998,6 +1010,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-21 17:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-24 02:57:35 +0000"
     },
     "done": true
   },
@@ -2363,6 +2381,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-24 02:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-22 19:36:48 +0000"
@@ -3540,6 +3564,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-20 21:14:01 +0000",
+      "minecraft:sunflower_plains": "2025-01-24 02:54:30 +0000",
       "minecraft:river": "2025-01-20 19:10:40 +0000",
       "minecraft:stony_shore": "2025-01-20 18:49:58 +0000",
       "minecraft:jagged_peaks": "2025-01-20 21:14:21 +0000",

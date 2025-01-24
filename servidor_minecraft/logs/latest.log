@@ -234,3 +234,84 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 02:50:15.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> voy a conseguir full diamante primero
 [24Jan2025 02:50:19.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/4928, l='ServerLevel[world]', x=649.50, y=73.00, z=-1626.50]
 [24Jan2025 02:50:20.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> aea
+[24Jan2025 02:54:57.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/6994, l='ServerLevel[world]', x=297.50, y=77.00, z=-1518.50]
+[24Jan2025 02:56:10.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/7504, l='ServerLevel[world]', x=311.50, y=76.00, z=-1524.50]
+[24Jan2025 02:56:23.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=602, y=64, z=-1430} BlockPos{x=602, y=62, z=-1431}
+[24Jan2025 02:57:54.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas moved wrongly!
+[24Jan2025 02:57:55.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Pig
+[24Jan2025 02:57:59.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[24Jan2025 02:58:00.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDD
+[24Jan2025 02:58:01.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDD
+[24Jan2025 02:58:04.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[24Jan2025 02:58:13.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Guardian
+[24Jan2025 02:58:22.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Guardian
+[24Jan2025 02:58:40.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> un choro
+[24Jan2025 02:58:44.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ayuda
+[24Jan2025 02:58:44.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> DONDE
+[24Jan2025 02:58:51.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDD
+[24Jan2025 02:59:05.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> te di semillas :´v
+[24Jan2025 02:59:08.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> encontre templo en el mar xD
+[24Jan2025 02:59:21.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[24Jan2025 02:59:26.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> altoque
+[24Jan2025 02:59:28.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> chapen al choro
+[24Jan2025 02:59:35.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> es que alguien no tiene cama
+[24Jan2025 02:59:35.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> toy mimido
+[24Jan2025 02:59:40.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[24Jan2025 02:59:45.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDDDDD
+[24Jan2025 03:00:11.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Zombie
+[24Jan2025 03:00:18.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[24Jan2025 03:00:23.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> txd
+[24Jan2025 03:01:08.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[24Jan2025 03:01:14.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduerman
+[24Jan2025 03:01:28.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tsebas ven a llamada
+[24Jan2025 03:01:41.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta dormir?
+[24Jan2025 03:01:44.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yo
+[24Jan2025 03:01:48.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tcovid tmb
+[24Jan2025 03:01:50.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> tengo 40 zombies :´v
+[24Jan2025 03:01:53.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> me salgo, mucho moustro jode XD
+[24Jan2025 03:01:54.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> covid le robo la cama
+[24Jan2025 03:01:55.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDD
+[24Jan2025 03:02:06.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerman
+[24Jan2025 03:02:14.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas salgamos pa dormir
+[24Jan2025 03:02:15.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no puedom
+[24Jan2025 03:02:18.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[24Jan2025 03:02:18.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[24Jan2025 03:02:21.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 lost connection: Disconnected
+[24Jan2025 03:02:21.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 left the game
+[24Jan2025 03:02:24.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> tduermen
+[24Jan2025 03:02:40.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b0bf45b
+[24Jan2025 03:02:40.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:48443] logged in with entity id 11599 at (397.30000001192093, 62.0, -1378.300000011921)
+[24Jan2025 03:02:40.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
+[24Jan2025 03:02:40.734] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
+[24Jan2025 03:04:00.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Zombie
+[24Jan2025 03:06:16.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72c51f6b
+[24Jan2025 03:06:16.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:47325] logged in with entity id 13678 at (556.3338798570984, 61.0, -1388.5064143654397)
+[24Jan2025 03:06:16.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[24Jan2025 03:06:16.650] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[24Jan2025 03:06:20.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Timed out
+[24Jan2025 03:06:20.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[24Jan2025 03:06:20.836] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 03:06:30.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sebas que ases por la vida?
+[24Jan2025 03:06:36.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> si
+[24Jan2025 03:06:39.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55e5b4f2
+[24Jan2025 03:06:39.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.38.179.237:57031] logged in with entity id 14076 at (312.86317791972147, 62.07326432466507, -2131.1452637533253)
+[24Jan2025 03:06:39.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[24Jan2025 03:06:39.522] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[24Jan2025 03:06:55.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas, ven a mi caas
+[24Jan2025 03:07:01.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> pa construir
+[24Jan2025 03:07:14.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ayuda estoy con 5 creepers xdxdxd
+[24Jan2025 03:07:21.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> te va usar y luego te va votar
+[24Jan2025 03:08:53.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sube
+[24Jan2025 03:09:00.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was impaled by Drowned
+[24Jan2025 03:09:06.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was impaled by Drowned
+[24Jan2025 03:09:09.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> oa
+[24Jan2025 03:09:18.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> te presentyo mi casa
+[24Jan2025 03:09:23.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> bien bien
+[24Jan2025 03:09:37.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> tienes pieda profunda?
+[24Jan2025 03:09:49.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> nom
+[24Jan2025 03:09:52.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[24Jan2025 03:09:59.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> lo deje en la otra casa xdxdxdxd
+[24Jan2025 03:10:34.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas, ve pa la casa del leon pa que te de la piedra
+[24Jan2025 03:10:40.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> baja papu
+[24Jan2025 03:10:42.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ia
+[24Jan2025 03:11:09.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ve al frente, ahi tiene
