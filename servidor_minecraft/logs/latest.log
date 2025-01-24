@@ -736,3 +736,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 15:50:56.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
 [24Jan2025 15:53:41.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/113548, l='ServerLevel[world]', x=311.50, y=76.00, z=-1526.50]
 [24Jan2025 15:57:27.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Zombie
+[24Jan2025 16:02:07.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> ven
+[24Jan2025 16:02:15.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobZack lost connection: Disconnected
+[24Jan2025 16:02:15.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack left the game
+[24Jan2025 16:02:21.354] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cc46ce
+[24Jan2025 16:02:21.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobZack[/127.138.17.159:52271] logged in with entity id 116153 at (397.5505571682047, 68.0, -1381.455789618182)
+[24Jan2025 16:02:21.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack joined the game
+[24Jan2025 16:02:21.374] [Server thread/INFO] [Waila/]: Syncing config to NoobZack (3ec1033e-f14a-354a-83e0-8243d7ea26f4)
+[24Jan2025 16:03:47.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper
+[24Jan2025 16:07:21.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[24Jan2025 16:07:21.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[24Jan2025 16:08:00.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 has made the advancement [What a Deal!]
+[24Jan2025 16:08:34.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> dame otros precios tio
+[24Jan2025 16:08:34.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Voluntary Exile]
+[24Jan2025 16:10:10.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Enderman
