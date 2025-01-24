@@ -2806,3 +2806,536 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 03:10:40.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> baja papu
 [24Jan2025 03:10:42.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ia
 [24Jan2025 03:11:09.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ve al frente, ahi tiene
+[24Jan2025 03:12:47.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was impaled by Drowned
+[24Jan2025 03:12:53.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no tiene oe xdxd
+[24Jan2025 03:12:55.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 03:13:00.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> sube xd
+[24Jan2025 03:13:05.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> q
+[24Jan2025 03:13:09.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> aaa
+[24Jan2025 03:13:12.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> aca arriba x
+[24Jan2025 03:13:13.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me equivoque de casa
+[24Jan2025 03:13:14.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[24Jan2025 03:13:16.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XD
+[24Jan2025 03:13:17.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Drowned
+[24Jan2025 03:13:43.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 03:13:43.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 03:13:48.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[24Jan2025 03:14:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> es todo xd
+[24Jan2025 03:14:02.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> salta
+[24Jan2025 03:14:09.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> salta
+[24Jan2025 03:14:14.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[24Jan2025 03:14:33.988] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[24Jan2025 03:14:34.027] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.framework.network.message.handshake.S2CSyncedEntityData' to 'framework:handshake' sequence 0
+[24Jan2025 03:14:34.077] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[24Jan2025 03:14:34.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[24Jan2025 03:14:34.159] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[24Jan2025 03:14:34.159] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[24Jan2025 03:14:34.159] [Netty Epoll Server IO #1/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[24Jan2025 03:14:34.225] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[24Jan2025 03:14:34.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Jan2025 03:14:34.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[24Jan2025 03:14:34.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, farmersdelight, betterdungeons, terrablender, biomesoplenty, jade, waila, jei, goblintraders, incendium, sophisticatedcore, brewinandchewin, insanelib, curios, ecologics, journeymap, yungsapi, dungeoncrawl, sophisticatedbackpacks, cfm, enhancedai, jeresources, framework, betterfortresses, forge, appleskin, tlskincape, corpse]
+[24Jan2025 03:14:34.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:14:34.264] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Jan2025 03:14:34.265] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Jan2025 03:14:34.276] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[24Jan2025 03:14:34.329] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[24Jan2025 03:14:34.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Jan2025 03:14:34.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[24Jan2025 03:14:34.426] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[24Jan2025 03:14:34.475] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.476] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.477] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Jan2025 03:14:34.477] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.477] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.525] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[24Jan2025 03:14:34.580] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[24Jan2025 03:14:34.584] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Jan2025 03:14:34.584] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.584] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.625] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[24Jan2025 03:14:34.651] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Jan2025 03:14:34.651] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.651] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.652] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.675] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[24Jan2025 03:14:34.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.759] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.778] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 15
+[24Jan2025 03:14:34.825] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 16
+[24Jan2025 03:14:34.866] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Jan2025 03:14:34.866] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.866] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.875] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[24Jan2025 03:14:34.875] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Jan2025 03:14:34.875] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.875] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.925] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 18
+[24Jan2025 03:14:34.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Jan2025 03:14:34.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.973] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Jan2025 03:14:34.973] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:34.973] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:34.980] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 19
+[24Jan2025 03:14:35.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 20
+[24Jan2025 03:14:35.032] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Jan2025 03:14:35.032] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:35.032] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:35.080] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 21
+[24Jan2025 03:14:35.125] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 22
+[24Jan2025 03:14:35.175] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[24Jan2025 03:14:35.225] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 24
+[24Jan2025 03:14:36.020] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Jan2025 03:14:36.020] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.020] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.022] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Jan2025 03:14:36.022] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.022] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.025] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Jan2025 03:14:36.025] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.025] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Jan2025 03:14:36.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.027] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:14:36.028] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:14:36.076] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Jan2025 03:14:36.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ed4970a
+[24Jan2025 03:14:36.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: K4mika[/127.107.177.30:34217] logged in with entity id 17450 at (-8.5, 81.0, 10.5)
+[24Jan2025 03:14:36.130] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4009963b into net.minecraft.network.Connection@5990a973
+[24Jan2025 03:14:36.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika joined the game
+[24Jan2025 03:14:36.147] [Server thread/INFO] [Waila/]: Syncing config to K4mika (88dcc7ee-ecb9-3d21-8a8e-d13b235276e3)
+[24Jan2025 03:14:45.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman mrd
+[24Jan2025 03:14:54.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> lol
+[24Jan2025 03:15:22.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> se vale dormir
+[24Jan2025 03:15:26.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> es gratis
+[24Jan2025 03:15:28.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 03:15:30.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[24Jan2025 03:15:36.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> me sale caro
+[24Jan2025 03:15:41.161] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-25 | 18 | 225)
+[24Jan2025 03:15:41.171] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-25 | 18 | 225)
+[24Jan2025 03:15:41.370] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-25 | 18 | 225)
+[24Jan2025 03:15:41.383] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (-25 | 18 | 225)
+[24Jan2025 03:15:45.046] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-20 | 18 | 240)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-20 | 18 | 240)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 241)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 241)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-16 | 18 | 249)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-16 | 18 | 249)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 246)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 246)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:15:45.047] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:15:45.150] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-20 | 18 | 240)
+[24Jan2025 03:15:45.150] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-20 | 18 | 240)
+[24Jan2025 03:15:45.150] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 241)
+[24Jan2025 03:15:45.151] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 241)
+[24Jan2025 03:15:45.151] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 249)
+[24Jan2025 03:15:45.151] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 249)
+[24Jan2025 03:15:45.151] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 246)
+[24Jan2025 03:15:45.152] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 246)
+[24Jan2025 03:15:45.152] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:15:45.152] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:15:58.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[24Jan2025 03:16:05.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman altoque p
+[24Jan2025 03:16:11.429] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-56 | 23 | 266)
+[24Jan2025 03:16:11.430] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (-56 | 23 | 266)
+[24Jan2025 03:16:11.430] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-62 | 18 | 271)
+[24Jan2025 03:16:11.432] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-62 | 18 | 271)
+[24Jan2025 03:16:11.432] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-61 | 18 | 265)
+[24Jan2025 03:16:11.432] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-61 | 18 | 265)
+[24Jan2025 03:16:11.433] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-57 | 18 | 261)
+[24Jan2025 03:16:11.433] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-57 | 18 | 261)
+[24Jan2025 03:16:11.434] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-50 | 18 | 265)
+[24Jan2025 03:16:11.434] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-50 | 18 | 265)
+[24Jan2025 03:16:11.435] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:11.437] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:11.443] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-50 | 18 | 265)
+[24Jan2025 03:16:11.444] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-50 | 18 | 265)
+[24Jan2025 03:16:11.445] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:11.445] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:11.773] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-20 | 24 | 266)
+[24Jan2025 03:16:11.774] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-20 | 24 | 266)
+[24Jan2025 03:16:11.774] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:16:11.775] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:16:11.775] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:11.784] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:11.785] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:11.786] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:11.794] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-20 | 24 | 266)
+[24Jan2025 03:16:11.794] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation COUNTERCLOCKWISE_90 at (-20 | 24 | 266)
+[24Jan2025 03:16:11.794] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:16:11.795] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-21 | 18 | 255)
+[24Jan2025 03:16:11.795] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-9 | 18 | 265)
+[24Jan2025 03:16:11.795] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-9 | 18 | 265)
+[24Jan2025 03:16:11.795] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:11.796] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:11.797] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1 | 18 | 265)
+[24Jan2025 03:16:11.797] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1 | 18 | 265)
+[24Jan2025 03:16:11.797] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:11.798] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:11.798] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-4 | 18 | 265)
+[24Jan2025 03:16:11.798] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-4 | 18 | 265)
+[24Jan2025 03:16:11.798] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:11.799] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:12.007] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1 | 18 | 265)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1 | 18 | 265)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:12.008] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-4 | 18 | 265)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-4 | 18 | 265)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (10 | 18 | 266)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (10 | 18 | 266)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (5 | 18 | 265)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (5 | 18 | 265)
+[24Jan2025 03:16:12.009] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:12.010] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:12.077] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:12.079] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:12.080] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:12.085] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:15.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> aea XD
+[24Jan2025 03:16:16.099] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (15 | 27 | 286)
+[24Jan2025 03:16:16.099] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (15 | 27 | 286)
+[24Jan2025 03:16:16.099] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:16.100] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:16.100] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:16.100] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:16.100] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:16.100] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 277)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 277)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-21 | 18 | 282)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-21 | 18 | 282)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-26 | 18 | 287)
+[24Jan2025 03:16:16.192] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-26 | 18 | 287)
+[24Jan2025 03:16:16.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:16.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (-2 | 18 | 270)
+[24Jan2025 03:16:16.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-21 | -9 | 286)
+[24Jan2025 03:16:16.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-21 | -9 | 286)
+[24Jan2025 03:16:16.193] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:16.194] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:16.198] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (32 | 27 | 274)
+[24Jan2025 03:16:16.198] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation NONE at (32 | 27 | 274)
+[24Jan2025 03:16:16.198] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (41 | 27 | 273)
+[24Jan2025 03:16:16.199] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (41 | 27 | 273)
+[24Jan2025 03:16:16.201] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (26 | 27 | 275)
+[24Jan2025 03:16:16.201] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (26 | 27 | 275)
+[24Jan2025 03:16:16.201] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (16 | 27 | 285)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (16 | 27 | 285)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (27 | 27 | 275)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (27 | 27 | 275)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (15 | 27 | 286)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (15 | 27 | 286)
+[24Jan2025 03:16:16.202] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:16.203] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (11 | 27 | 270)
+[24Jan2025 03:16:16.203] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:16.203] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (11 | 18 | 261)
+[24Jan2025 03:16:16.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-31 | 27 | 282)
+[24Jan2025 03:16:16.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-31 | 27 | 282)
+[24Jan2025 03:16:16.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 277)
+[24Jan2025 03:16:16.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-21 | 18 | 277)
+[24Jan2025 03:16:16.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (-26 | 17 | 260)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-21 | 18 | 282)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-21 | 18 | 282)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-26 | 18 | 287)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (-26 | 18 | 287)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-21 | -9 | 286)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (-21 | -9 | 286)
+[24Jan2025 03:16:16.333] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:16.335] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (-26 | -10 | 269)
+[24Jan2025 03:16:16.339] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:16.339] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:16.346] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-80 | 18 | 287)
+[24Jan2025 03:16:16.346] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-80 | 18 | 287)
+[24Jan2025 03:16:16.346] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-62 | 18 | 271)
+[24Jan2025 03:16:16.347] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-62 | 18 | 271)
+[24Jan2025 03:16:16.347] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation NONE at (-50 | 18 | 272)
+[24Jan2025 03:16:16.347] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation NONE at (-50 | 18 | 272)
+[24Jan2025 03:16:16.347] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-56 | 18 | 277)
+[24Jan2025 03:16:16.347] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-56 | 18 | 277)
+[24Jan2025 03:16:16.348] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:16.348] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation COUNTERCLOCKWISE_90 at (-62 | 18 | 260)
+[24Jan2025 03:16:16.348] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (-55 | 23 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (-55 | 23 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation COUNTERCLOCKWISE_90 at (-58 | 18 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation COUNTERCLOCKWISE_90 at (-58 | 18 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-52 | 18 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-52 | 18 | 285)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-57 | 18 | 282)
+[24Jan2025 03:16:16.349] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-57 | 18 | 282)
+[24Jan2025 03:16:16.456] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (41 | 27 | 273)
+[24Jan2025 03:16:16.456] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (41 | 27 | 273)
+[24Jan2025 03:16:16.460] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-69 | 18 | 287)
+[24Jan2025 03:16:16.461] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-69 | 18 | 287)
+[24Jan2025 03:16:16.461] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-80 | 18 | 287)
+[24Jan2025 03:16:16.461] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-80 | 18 | 287)
+[24Jan2025 03:16:19.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[24Jan2025 03:16:35.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Drowned
+[24Jan2025 03:16:42.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman
+[24Jan2025 03:16:47.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=80, z=9}
+[24Jan2025 03:17:05.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman p
+[24Jan2025 03:17:08.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:09.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> covid si duermes Kamikaze te dara tu real regalo (ya sabes que) por cumpleaños
+[24Jan2025 03:17:09.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:11.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:12.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> duerman
+[24Jan2025 03:17:14.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:15.353] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-7 | 24 | -288)
+[24Jan2025 03:17:15.354] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-7 | 24 | -288)
+[24Jan2025 03:17:15.354] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-7 | 24 | -288)
+[24Jan2025 03:17:15.355] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-7 | 24 | -288)
+[24Jan2025 03:17:16.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:17.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:17.975] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-364 | 70 | -476).
+[24Jan2025 03:17:17.977] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Jan2025 03:17:17.979] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[24Jan2025 03:17:17.979] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Jan2025 03:17:17.979] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[24Jan2025 03:17:17.979] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Jan2025 03:17:17.980] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 5(0) Rooms
+[24Jan2025 03:17:17.980] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Jan2025 03:17:17.980] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 10(0) Nodes and 6(0) Rooms
+[24Jan2025 03:17:17.980] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Jan2025 03:17:17.980] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[24Jan2025 03:17:19.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[24Jan2025 03:17:22.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
+[24Jan2025 03:17:23.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> x 344 z -1356
+[24Jan2025 03:17:37.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta dormir?
+[24Jan2025 03:17:40.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> x:390 z:'1379, y:78
+[24Jan2025 03:17:54.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yo ya estoy
+[24Jan2025 03:17:57.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> x2
+[24Jan2025 03:18:02.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> falta kami xd
+[24Jan2025 03:18:06.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> csmr
+[24Jan2025 03:18:16.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> kamiduerme
+[24Jan2025 03:18:17.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> kamikaze duerme
+[24Jan2025 03:18:19.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Esta el kabro de kami?
+[24Jan2025 03:18:23.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: K4mika lost connection: Disconnected
+[24Jan2025 03:18:23.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika left the game
+[24Jan2025 03:18:31.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerman
+[24Jan2025 03:18:34.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[24Jan2025 03:18:35.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> quien falta?
+[24Jan2025 03:18:41.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ItsSebas
+[24Jan2025 03:18:43.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 03:18:43.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 03:18:43.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sebas duerme
+[24Jan2025 03:18:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDD
+[24Jan2025 03:18:46.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya ta
+[24Jan2025 03:18:52.864] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[24Jan2025 03:18:52.885] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.mrcrayfish.framework.network.message.handshake.S2CSyncedEntityData' to 'framework:handshake' sequence 0
+[24Jan2025 03:18:52.933] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[24Jan2025 03:18:52.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[24Jan2025 03:18:53.002] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[24Jan2025 03:18:53.002] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.HandshakeMessage$Acknowledge
+[24Jan2025 03:18:53.003] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.031] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[24Jan2025 03:18:53.085] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, farmersdelight, betterdungeons, terrablender, biomesoplenty, jade, waila, jei, goblintraders, incendium, sophisticatedcore, brewinandchewin, insanelib, curios, ecologics, journeymap, yungsapi, dungeoncrawl, sophisticatedbackpacks, cfm, enhancedai, jeresources, framework, betterfortresses, forge, appleskin, tlskincape, corpse]
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.107] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Jan2025 03:18:53.108] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Jan2025 03:18:53.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[24Jan2025 03:18:53.158] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Jan2025 03:18:53.159] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.159] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.185] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[24Jan2025 03:18:53.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[24Jan2025 03:18:53.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[24Jan2025 03:18:53.312] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Jan2025 03:18:53.312] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.312] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.313] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Jan2025 03:18:53.313] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.313] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.335] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[24Jan2025 03:18:53.335] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Jan2025 03:18:53.335] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.335] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 10
+[24Jan2025 03:18:53.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 11
+[24Jan2025 03:18:53.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Jan2025 03:18:53.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.468] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.480] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 12
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.481] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.530] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[24Jan2025 03:18:53.571] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Jan2025 03:18:53.571] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.572] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.572] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Jan2025 03:18:53.572] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.572] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.585] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 14
+[24Jan2025 03:18:53.635] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 15
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.675] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.679] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 16
+[24Jan2025 03:18:53.728] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[24Jan2025 03:18:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Jan2025 03:18:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.738] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.777] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 18
+[24Jan2025 03:18:53.778] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Jan2025 03:18:53.778] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.778] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.831] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 19
+[24Jan2025 03:18:53.880] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 20
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:53.881] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:53.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 21
+[24Jan2025 03:18:53.980] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 22
+[24Jan2025 03:18:54.031] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[24Jan2025 03:18:54.085] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 24
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.547] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.548] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Jan2025 03:18:54.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Jan2025 03:18:54.549] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.550] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.550] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Jan2025 03:18:54.550] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[24Jan2025 03:18:54.550] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Jan2025 03:18:54.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Jan2025 03:18:54.634] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d177bef
+[24Jan2025 03:18:54.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: K4mika[/127.107.177.30:43215] logged in with entity id 19105 at (38.90105698004458, 104.0, -172.96396501739562)
+[24Jan2025 03:18:54.638] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7022f182 into net.minecraft.network.Connection@7d2f8ba9
+[24Jan2025 03:18:54.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika joined the game
+[24Jan2025 03:18:54.650] [Server thread/INFO] [Waila/]: Syncing config to K4mika (88dcc7ee-ecb9-3d21-8a8e-d13b235276e3)
+[24Jan2025 03:19:09.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> kamiiiiiiiiii
+[24Jan2025 03:19:20.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> kase
+[24Jan2025 03:19:30.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> ayuda muchachos
+[24Jan2025 03:19:35.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> no
+[24Jan2025 03:19:37.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ayudate solo
+[24Jan2025 03:19:38.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> me esta persiguiendo un pollo
+[24Jan2025 03:19:40.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[24Jan2025 03:19:46.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[24Jan2025 03:19:58.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[24Jan2025 03:20:18.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya ta XD
+[24Jan2025 03:20:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was pummeled by Spider
+[24Jan2025 03:20:39.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> voy por kami, sebas, ve armando el techo pe
+[24Jan2025 03:20:40.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[24Jan2025 03:20:59.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> a techar obreros
+[24Jan2025 03:21:02.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> con la piedra no? xdxdxdxd
+[24Jan2025 03:21:11.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Donkey
+[24Jan2025 03:21:15.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[24Jan2025 03:21:15.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDDDDDDDD
+[24Jan2025 03:21:16.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XDDDDDDDDDDD
+[24Jan2025 03:21:16.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[24Jan2025 03:21:17.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <K4mika> XDD
+[24Jan2025 03:21:18.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[24Jan2025 03:21:20.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> JAJAJAJAJAJA
+[24Jan2025 03:21:24.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> de un burro ps
+[24Jan2025 03:21:35.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: K4mika was slain by Chicken
+[24Jan2025 03:21:37.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> un burro se lo cargo xd
+[24Jan2025 03:21:45.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was impaled by Drowned
+[24Jan2025 03:21:49.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Drowned
