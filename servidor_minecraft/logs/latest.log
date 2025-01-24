@@ -750,3 +750,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 16:08:34.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> dame otros precios tio
 [24Jan2025 16:08:34.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has made the advancement [Voluntary Exile]
 [24Jan2025 16:10:10.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Enderman
+[24Jan2025 16:14:06.799] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1087, y=21, z=-1410}
+[24Jan2025 16:14:06.799] [Worker-Main-16/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (1087, 21, -1410)
+[24Jan2025 16:14:06.799] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1087, y=21, z=-1410}
+[24Jan2025 16:14:06.902] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1087, y=21, z=-1410}
+[24Jan2025 16:14:06.902] [Worker-Main-15/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (1087, 21, -1410)
+[24Jan2025 16:14:06.902] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1087, y=21, z=-1410}
+[24Jan2025 16:15:30.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper
+[24Jan2025 16:17:09.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6add93cb
+[24Jan2025 16:17:09.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:54193] logged in with entity id 123057 at (486.42132712725976, 64.0, -1526.699999988079)
+[24Jan2025 16:17:09.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[24Jan2025 16:17:09.960] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[24Jan2025 16:18:02.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Take Aim]
+[24Jan2025 16:18:11.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was slain by Zombie
+[24Jan2025 16:18:16.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper Cena
+[24Jan2025 16:18:28.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack was blown up by Creeper
