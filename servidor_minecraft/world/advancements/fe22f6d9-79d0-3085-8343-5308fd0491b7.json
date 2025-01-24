@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-22 20:13:34 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-23 01:01:42 +0000"
@@ -842,6 +854,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-22 03:23:25 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_button": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
   },
@@ -1010,6 +1028,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-22 04:39:25 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_stairs": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
   },
@@ -1979,6 +2003,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 15:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-22 03:48:01 +0000"
@@ -2938,6 +2968,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_pressure_plate": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 02:35:26 +0000"
@@ -3157,6 +3193,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2025-01-22 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
   },
@@ -3409,6 +3451,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-22 20:13:34 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_door": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
   },
@@ -4014,6 +4062,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 15:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-22 02:17:27 +0000"
@@ -4531,6 +4585,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 15:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 03:23:33 +0000"
@@ -4648,6 +4708,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-01-22 03:49:17 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_trapdoor": {
+    "criteria": {
+      "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
   },
