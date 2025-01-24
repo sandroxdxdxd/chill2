@@ -1136,12 +1136,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-23 04:03:50 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-01-22 18:54:24 +0000"
@@ -1187,7 +1181,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "beetroot": "2025-01-23 01:10:03 +0000",
-      "wheat": "2025-01-22 20:02:25 +0000"
+      "wheat": "2025-01-22 20:02:25 +0000",
+      "carrot": "2025-01-24 02:43:02 +0000"
     },
     "done": false
   },
