@@ -828,3 +828,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 16:56:52.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was blown up by Creeper
 [24Jan2025 16:58:55.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was shot by Skeleton
 [24Jan2025 17:01:10.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was blown up by Creeper
+[24Jan2025 17:07:56.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/141346, l='ServerLevel[world]', x=310.50, y=76.00, z=-1524.50]
