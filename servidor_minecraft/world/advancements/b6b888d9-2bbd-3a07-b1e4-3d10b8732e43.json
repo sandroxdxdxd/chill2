@@ -1343,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 14:49:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_andesite": "2025-01-20 19:14:17 +0000"
@@ -1928,6 +1934,12 @@
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-01-20 19:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-24 14:52:19 +0000"
     },
     "done": true
   },
@@ -3004,6 +3016,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-20 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-01-24 14:52:19 +0000"
     },
     "done": true
   },
@@ -4936,6 +4954,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-20 22:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 14:49:22 +0000"
     },
     "done": true
   },

@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-21 18:17:32 +0000"
@@ -230,6 +236,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-21 18:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 14:54:36 +0000"
     },
     "done": true
   },
@@ -290,6 +302,12 @@
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -1056,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -1071,6 +1095,12 @@
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-01-21 18:13:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -1428,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 18:19:23 +0000"
@@ -1488,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-22 20:45:16 +0000"
@@ -1515,6 +1557,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-22 19:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 14:54:36 +0000"
     },
     "done": true
   },
@@ -1650,6 +1698,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -1869,6 +1923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 20:36:09 +0000"
@@ -1950,6 +2010,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-22 20:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 14:54:36 +0000"
     },
     "done": true
   },
@@ -2094,6 +2160,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-21 18:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -2350,6 +2422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-24 14:05:11 +0000"
@@ -2425,6 +2503,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -2527,6 +2611,12 @@
   "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -2776,6 +2866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 14:54:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_picket_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -2863,6 +2959,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-01-24 13:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 14:54:36 +0000"
     },
     "done": true
   },
@@ -2959,6 +3061,12 @@
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -3202,6 +3310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-24 14:47:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -3211,6 +3325,12 @@
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -3226,6 +3346,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-01-24 14:54:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_planks": "2025-01-22 19:21:36 +0000"
@@ -3235,6 +3361,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 14:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -3253,6 +3385,12 @@
   "cfm:recipes/cfm/birch_chair": {
     "criteria": {
       "has_log": "2025-01-24 13:49:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-01-24 14:54:36 +0000"
     },
     "done": true
   },
@@ -3373,6 +3511,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-22 19:21:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
@@ -3631,6 +3775,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-21 18:45:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
   },
