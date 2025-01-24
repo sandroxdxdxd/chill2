@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-24 15:57:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-22 02:35:26 +0000"
@@ -1304,6 +1310,12 @@
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_log": "2025-01-22 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 15:47:16 +0000"
     },
     "done": true
   },
@@ -3560,6 +3572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-24 15:42:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-22 19:46:14 +0000"
@@ -4152,6 +4170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-24 15:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-22 02:14:08 +0000"
@@ -4299,6 +4323,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "kelp": "2025-01-24 02:37:13 +0000",
+      "potato": "2025-01-24 15:47:28 +0000",
       "wheat": "2025-01-23 01:12:36 +0000"
     },
     "done": false
@@ -4579,6 +4604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-24 15:57:09 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-22 02:10:32 +0000"
@@ -4750,6 +4781,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-22 02:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 15:47:16 +0000"
     },
     "done": true
   },

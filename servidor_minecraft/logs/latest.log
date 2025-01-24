@@ -718,3 +718,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [24Jan2025 15:36:02.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
 [24Jan2025 15:36:02.023] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
 [24Jan2025 15:37:30.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Spider
+[24Jan2025 15:42:33.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was shot by Skeleton
+[24Jan2025 15:45:21.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Antonio_0610) moved wrongly! 0.2713034011119362
+[24Jan2025 15:45:21.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Antonio_0610) moved wrongly! 0.3695138784171377
+[24Jan2025 15:45:22.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Antonio_0610) moved wrongly! 0.43334761452092607
+[24Jan2025 15:49:36.358] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@312ec0f5
+[24Jan2025 15:49:36.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobZack[/127.138.17.159:57019] logged in with entity id 112324 at (430.479457054994, 69.0, -1373.7366107264684)
+[24Jan2025 15:49:36.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NoobZack joined the game
+[24Jan2025 15:49:36.382] [Server thread/INFO] [Waila/]: Syncing config to NoobZack (3ec1033e-f14a-354a-83e0-8243d7ea26f4)
+[24Jan2025 15:49:43.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NoobZack> covid
+[24Jan2025 15:49:47.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NoobZack> no me deja entrar al vc XD
+[24Jan2025 15:50:10.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> metete a uno cualquiera pa moverte XD
+[24Jan2025 15:50:19.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NoobZack> ya
+[24Jan2025 15:50:38.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> como que todos andan callados xd
+[24Jan2025 15:50:44.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> si p
+[24Jan2025 15:50:54.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya me puse a escuchar musiquita
+[24Jan2025 15:50:56.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
+[24Jan2025 15:53:41.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/113548, l='ServerLevel[world]', x=311.50, y=76.00, z=-1526.50]
+[24Jan2025 15:57:27.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Zombie
