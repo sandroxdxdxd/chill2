@@ -463,6 +463,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-24 14:05:14 +0000",
       "bread": "2025-01-22 19:01:41 +0000",
       "rotten_flesh": "2025-01-22 19:14:40 +0000",
       "beetroot": "2025-01-24 03:37:15 +0000",
@@ -793,6 +794,12 @@
       "has_iron": "2025-01-22 19:28:21 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-01-24 14:08:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -2154,6 +2161,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-24 14:08:18 +0000"
     },
     "done": true
   },

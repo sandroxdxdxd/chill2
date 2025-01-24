@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-24 13:56:58 +0000"
@@ -110,6 +116,12 @@
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2025-01-24 13:26:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_grill": {
     "criteria": {
       "has_iron": "2025-01-24 13:54:31 +0000"
@@ -386,7 +404,8 @@
       "lavender_field": "2025-01-24 14:00:44 +0000",
       "fir_clearing": "2025-01-24 13:22:55 +0000",
       "pumpkin_patch": "2025-01-24 13:23:00 +0000",
-      "prairie": "2025-01-24 13:39:45 +0000"
+      "prairie": "2025-01-24 13:39:45 +0000",
+      "crag": "2025-01-24 14:05:42 +0000"
     },
     "done": false
   },
@@ -423,6 +442,12 @@
   "ecologics:recipes/ecologics/walnut_trapdoor": {
     "criteria": {
       "has_walnut_planks": "2025-01-24 13:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-24 14:05:18 +0000"
     },
     "done": true
   },
@@ -504,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-24 13:54:18 +0000"
@@ -524,6 +555,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-24 14:06:46 +0000",
+      "minecraft:spider": "2025-01-24 14:06:06 +0000",
       "minecraft:creeper": "2025-01-24 13:55:12 +0000",
       "minecraft:zombie": "2025-01-24 13:44:22 +0000"
     },
@@ -537,9 +570,15 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
@@ -550,6 +589,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-24 13:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-24 14:08:38 +0000"
     },
     "done": true
   },
@@ -697,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-24 14:08:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_desk": {
     "criteria": {
       "has_planks": "2025-01-24 13:27:43 +0000"
@@ -712,6 +763,12 @@
   "cfm:recipes/cfm/pink_cooler": {
     "criteria": {
       "has_chest": "2025-01-24 13:22:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -759,7 +816,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -859,9 +916,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-24 13:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-24 14:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -880,6 +955,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-24 13:54:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -993,7 +1074,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -1023,7 +1104,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -1042,6 +1123,7 @@
       "minecraft:forest": "2025-01-24 14:03:33 +0000",
       "minecraft:ocean": "2025-01-24 13:51:09 +0000",
       "minecraft:flower_forest": "2025-01-24 13:41:03 +0000",
+      "minecraft:meadow": "2025-01-24 14:04:57 +0000",
       "minecraft:plains": "2025-01-24 13:21:57 +0000"
     },
     "done": false
@@ -1106,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-24 14:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-24 13:23:28 +0000"
@@ -1138,7 +1226,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -1310,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-24 14:08:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_cooler": {
     "criteria": {
       "has_chest": "2025-01-24 13:22:23 +0000"
@@ -1360,7 +1454,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -1373,6 +1467,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-24 13:23:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 14:08:38 +0000"
     },
     "done": true
   },
@@ -1424,6 +1524,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 13:23:28 +0000"
@@ -1439,6 +1545,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-24 13:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
     },
     "done": true
   },
@@ -1508,6 +1620,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-24 13:26:10 +0000"
@@ -1570,8 +1688,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-24 14:06:20 +0000",
       "cooked_beef": "2025-01-24 13:57:13 +0000",
-      "beef": "2025-01-24 13:39:41 +0000"
+      "beef": "2025-01-24 13:39:41 +0000",
+      "rotten_flesh": "2025-01-24 14:09:15 +0000"
     },
     "done": false
   },
@@ -1653,6 +1773,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-01-24 13:27:33 +0000"
@@ -1685,10 +1811,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-01-24 14:04:47 +0000",
       "log_spam_fixer": "2025-01-24 13:21:57 +0000"
     },
-    "done": true
+    "done": false
   },
   "cfm:recipes/cfm/gray_cooler": {
     "criteria": {
@@ -1699,6 +1824,12 @@
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-01-24 13:22:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -1720,9 +1851,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-24 13:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-24 14:08:38 +0000"
     },
     "done": true
   },
@@ -1836,7 +1979,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -1909,6 +2052,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-24 13:27:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -1986,7 +2135,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -2032,6 +2181,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-01-24 13:22:23 +0000"
@@ -2056,9 +2211,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-24 14:06:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-01-24 13:26:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -2164,6 +2331,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-24 14:10:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-24 13:27:43 +0000"
@@ -2242,6 +2415,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-24 13:23:01 +0000"
@@ -2287,6 +2466,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-01-24 13:22:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-24 14:13:03 +0000"
     },
     "done": true
   },
@@ -2460,7 +2645,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
@@ -2490,7 +2675,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 14:04:47 +0000"
+      "log_spam_fixer": "2025-01-24 14:19:47 +0000"
     },
     "done": false
   },
