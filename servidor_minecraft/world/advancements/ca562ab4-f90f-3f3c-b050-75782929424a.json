@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 17:20:33 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 17:20:33 +0000"
@@ -640,6 +652,12 @@
       "has_planks": "2025-01-22 20:52:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "ecologics:recipes/ecologics/walnut_slab": {
     "criteria": {
@@ -868,6 +886,12 @@
       "has_coconut_planks": "2025-01-25 01:12:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
@@ -1541,6 +1565,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-20 21:18:54 +0000"
@@ -1924,6 +1954,12 @@
       "has_stone_bricks": "2025-01-20 20:27:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -2363,6 +2399,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-20 21:42:34 +0000"
@@ -2444,6 +2486,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-20 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
     },
     "done": true
   },
@@ -2831,6 +2879,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-25 01:23:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-01-20 19:45:58 +0000"
@@ -3015,6 +3069,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-01-22 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
     },
     "done": true
   },
@@ -3252,6 +3312,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-01-20 20:47:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
     },
     "done": true
   },
@@ -3615,6 +3681,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 17:20:33 +0000"
@@ -3695,6 +3767,12 @@
       "has_iron_ingot": "2025-01-20 20:12:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
@@ -3905,6 +3983,12 @@
       "has_wheat": "2025-01-22 02:51:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -4159,6 +4243,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-20 20:45:49 +0000"
@@ -4315,6 +4405,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-25 01:23:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-20 20:09:26 +0000"
@@ -4350,6 +4446,12 @@
       "has_bucket": "2025-01-22 02:03:23 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
@@ -4474,6 +4576,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-20 21:19:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-01-25 01:23:15 +0000"
     },
     "done": true
   },
@@ -4633,6 +4741,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 02:03:23 +0000"
@@ -4720,6 +4834,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-01-22 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:23:15 +0000"
     },
     "done": true
   },
@@ -4962,6 +5082,12 @@
       "has_iron_ingot": "2025-01-20 20:12:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 01:29:54 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {

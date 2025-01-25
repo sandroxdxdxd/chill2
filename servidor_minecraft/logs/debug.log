@@ -1948,3 +1948,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [25Jan2025 01:22:53.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jan2025 01:26:36.492] [Worker-Main-53/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
 [25Jan2025 01:26:36.502] [Worker-Main-50/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Jan2025 01:27:53.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 01:27:53.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 01:28:32.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> mimir
+[25Jan2025 01:28:53.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya
+[25Jan2025 01:30:37.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
+[25Jan2025 01:30:41.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me void
+[25Jan2025 01:30:43.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[25Jan2025 01:30:43.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[25Jan2025 01:32:53.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 01:32:53.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
