@@ -38,3 +38,11 @@
 [25Jan2025 01:30:41.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me void
 [25Jan2025 01:30:43.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
 [25Jan2025 01:30:43.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[25Jan2025 01:39:21.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was blown up by Creeper Cena
+[25Jan2025 01:40:19.789] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a3f7c16
+[25Jan2025 01:40:19.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:37099] logged in with entity id 15375 at (232.7695852884566, 61.0625, -1339.7593001198602)
+[25Jan2025 01:40:19.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
+[25Jan2025 01:40:19.808] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[25Jan2025 01:40:30.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> Ya llegue
+[25Jan2025 01:44:55.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> hola xd
+[25Jan2025 01:47:09.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/17054, l='ServerLevel[world]', x=121.50, y=72.00, z=-1324.50]
