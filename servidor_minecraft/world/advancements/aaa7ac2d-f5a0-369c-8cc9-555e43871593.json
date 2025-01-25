@@ -926,12 +926,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-24 13:49:16 +0000"
@@ -1303,12 +1297,6 @@
       "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
   },
   "ecologics:recipes/ecologics/coconut_fence_gate": {
     "criteria": {
@@ -1706,12 +1694,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-24 14:47:37 +0000"
@@ -1735,12 +1717,6 @@
       "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1915,12 +1891,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 20:36:09 +0000"
@@ -1942,6 +1912,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-25 18:41:20 +0000"
     },
     "done": true
   },
@@ -2298,12 +2274,6 @@
       "has_white_wool": "2025-01-21 18:12:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
@@ -3124,12 +3094,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 18:19:23 +0000"
@@ -3357,12 +3321,6 @@
       "has_stone_bricks": "2025-01-24 14:05:11 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -4130,12 +4088,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -4165,12 +4117,6 @@
       "has_white_wool": "2025-01-21 18:12:42 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
