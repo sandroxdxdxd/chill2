@@ -223,3 +223,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [25Jan2025 17:32:48.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
 [25Jan2025 17:34:03.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien se puso a talar mis arboles y los dejo a medias?
 [25Jan2025 17:34:34.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :no_se:
+[25Jan2025 17:36:41.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> mimir time
+[25Jan2025 17:36:50.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[25Jan2025 17:36:58.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> mimir
+[25Jan2025 17:37:01.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> mimición
+[25Jan2025 17:37:07.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> ven o toño pisado
+[25Jan2025 17:37:08.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> sleep leonel
+[25Jan2025 17:37:12.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[25Jan2025 17:37:14.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> go to sleep
+[25Jan2025 17:37:17.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :>
+[25Jan2025 17:37:18.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> a donde
+[25Jan2025 17:37:23.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Disconnected
+[25Jan2025 17:37:23.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[25Jan2025 17:37:23.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> esta con common
+[25Jan2025 17:37:52.343] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b5d9b1b
+[25Jan2025 17:37:52.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:54683] logged in with entity id 5977 at (311.968897115599, 62.0, -1300.1442984846053)
+[25Jan2025 17:37:52.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
+[25Jan2025 17:37:52.377] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[25Jan2025 17:38:22.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was blown up by Creeper
+[25Jan2025 17:38:27.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[25Jan2025 17:39:32.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was shot by Skeleton
+[25Jan2025 17:39:36.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdxdxd
+[25Jan2025 17:44:18.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> toño se robo todos los aldeanos
+[25Jan2025 17:45:50.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 drowned whilst trying to escape Witch
+[25Jan2025 17:45:53.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xxdxdxd
+[25Jan2025 17:45:57.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Timed out
+[25Jan2025 17:45:57.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[25Jan2025 17:45:57.285] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jan2025 17:46:10.041] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5935f887
+[25Jan2025 17:46:10.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.237.55.32:45121] logged in with entity id 8867 at (337.3730432298141, 63.14225335765026, -1345.6663957003723)
+[25Jan2025 17:46:10.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[25Jan2025 17:46:10.073] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[25Jan2025 17:46:39.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [A Seedy Place]

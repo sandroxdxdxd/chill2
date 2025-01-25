@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 04:48:16 +0000"
@@ -652,6 +658,12 @@
       "has_planks": "2025-01-23 01:04:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "ecologics:recipes/ecologics/walnut_slab": {
     "criteria": {
@@ -892,6 +904,12 @@
       "has_coconut_planks": "2025-01-24 15:28:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
@@ -1902,6 +1920,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-22 02:32:32 +0000"
@@ -2313,6 +2337,13 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-22 04:57:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-25 17:45:43 +0000",
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
     },
     "done": true
   },
@@ -3593,6 +3624,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 04:48:16 +0000"
@@ -3674,6 +3711,12 @@
       "has_iron_ingot": "2025-01-22 02:17:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
@@ -3872,6 +3915,12 @@
       "has_wheat": "2025-01-22 02:51:07 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -4303,6 +4352,12 @@
       "has_bucket": "2025-01-22 02:35:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
@@ -4893,6 +4948,12 @@
       "has_iron_ingot": "2025-01-22 02:17:14 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
