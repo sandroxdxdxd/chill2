@@ -908,6 +908,7 @@
       "minecraft:spider": "2025-01-21 18:32:48 +0000",
       "minecraft:creeper": "2025-01-21 18:06:22 +0000",
       "minecraft:witch": "2025-01-25 02:10:52 +0000",
+      "minecraft:enderman": "2025-01-25 18:31:52 +0000",
       "minecraft:zombie": "2025-01-21 18:00:29 +0000",
       "minecraft:drowned": "2025-01-21 18:50:23 +0000"
     },
@@ -927,7 +928,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -1305,7 +1306,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -1707,7 +1708,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -1737,7 +1738,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -1916,7 +1917,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -2300,7 +2301,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -3125,7 +3126,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -3359,7 +3360,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -4131,7 +4132,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
     "done": false
   },
@@ -4167,10 +4168,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-25 18:25:37 +0000",
-      "log_spam_fixer": "2025-01-25 18:25:19 +0000"
+      "log_spam_fixer": "2025-01-25 18:32:18 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {

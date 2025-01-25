@@ -347,3 +347,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [25Jan2025 18:27:01.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:33979] logged in with entity id 23208 at (210.9217200991902, 63.166109260938214, -1335.3969963381974)
 [25Jan2025 18:27:01.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
 [25Jan2025 18:27:01.111] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[25Jan2025 18:28:25.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was shot by Skeleton
+[25Jan2025 18:29:04.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Spider
+[25Jan2025 18:29:19.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was blown up by Creeper
+[25Jan2025 18:31:36.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Enderman
+[25Jan2025 18:31:57.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Enderman
+[25Jan2025 18:32:10.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Enderman
+[25Jan2025 18:33:01.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Timed out
+[25Jan2025 18:33:01.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[25Jan2025 18:33:14.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Timed out
+[25Jan2025 18:33:14.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[25Jan2025 18:33:16.538] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c6991ee
+[25Jan2025 18:33:16.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:54195] logged in with entity id 24834 at (298.50078583010264, 104.0, -1378.3663833683986)
+[25Jan2025 18:33:16.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[25Jan2025 18:33:16.563] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[25Jan2025 18:33:16.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Timed out
+[25Jan2025 18:33:16.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[25Jan2025 18:33:22.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Disconnected
+[25Jan2025 18:33:22.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[25Jan2025 18:33:46.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Timed out
+[25Jan2025 18:33:46.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[25Jan2025 18:35:22.833] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76905dea
+[25Jan2025 18:35:22.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:60253] logged in with entity id 24870 at (298.50078583010264, 104.0, -1378.3663833683986)
+[25Jan2025 18:35:22.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[25Jan2025 18:35:22.848] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[25Jan2025 18:35:51.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a5e5ba0
+[25Jan2025 18:35:51.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.237.55.32:53053] logged in with entity id 25135 at (319.51938266113365, 65.0, -1316.104893875077)
+[25Jan2025 18:35:51.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[25Jan2025 18:35:51.062] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[25Jan2025 18:35:51.645] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73403bbe
+[25Jan2025 18:35:51.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:35757] logged in with entity id 25165 at (331.7129196568384, 65.0, -1328.1942696328374)
+[25Jan2025 18:35:51.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[25Jan2025 18:35:51.677] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[25Jan2025 18:36:21.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Timed out
+[25Jan2025 18:36:21.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[25Jan2025 18:36:21.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Timed out
+[25Jan2025 18:36:21.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[25Jan2025 18:36:22.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Timed out
+[25Jan2025 18:36:22.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[25Jan2025 18:37:13.583] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d99eb34
+[25Jan2025 18:37:13.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:50719] logged in with entity id 25197 at (298.4738930265304, 104.0, -1376.86022966545)
+[25Jan2025 18:37:13.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[25Jan2025 18:37:13.596] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
