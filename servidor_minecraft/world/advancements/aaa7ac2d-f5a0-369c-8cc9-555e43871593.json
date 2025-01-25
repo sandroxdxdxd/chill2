@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2025-01-25 02:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-22 20:36:09 +0000"
@@ -973,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-25 02:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-01-22 21:22:40 +0000"
@@ -1291,6 +1303,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2025-01-25 02:21:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-22 21:22:50 +0000"
@@ -1600,12 +1618,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-21 18:09:09 +0000",
+      "minecraft:beach": "2025-01-25 02:21:24 +0000",
       "minecraft:river": "2025-01-21 18:11:04 +0000",
       "minecraft:stony_shore": "2025-01-21 18:39:57 +0000",
       "minecraft:dripstone_caves": "2025-01-22 20:46:38 +0000",
       "minecraft:jagged_peaks": "2025-01-21 18:20:04 +0000",
       "minecraft:cold_ocean": "2025-01-21 18:48:24 +0000",
       "minecraft:forest": "2025-01-22 19:36:54 +0000",
+      "minecraft:ocean": "2025-01-25 02:19:55 +0000",
       "minecraft:flower_forest": "2025-01-22 19:28:54 +0000",
       "minecraft:meadow": "2025-01-21 18:51:22 +0000",
       "minecraft:plains": "2025-01-21 17:57:50 +0000"
@@ -1852,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-25 02:20:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/basket": {
     "criteria": {
       "has_canvas": "2025-01-22 20:19:23 +0000"
@@ -2047,6 +2073,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-01-24 14:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-25 02:20:04 +0000"
     },
     "done": true
   },
@@ -2448,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-25 02:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -2607,6 +2645,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-21 18:45:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2025-01-25 02:21:45 +0000"
     },
     "done": true
   },

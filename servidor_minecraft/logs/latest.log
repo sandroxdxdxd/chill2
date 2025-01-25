@@ -54,3 +54,4 @@
 [25Jan2025 01:55:07.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> rompiendo una parte
 [25Jan2025 02:01:28.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
 [25Jan2025 02:01:28.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[25Jan2025 02:24:12.775] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/23995, l='ServerLevel[world]', x=310.50, y=76.00, z=-1526.50]
