@@ -52,3 +52,5 @@
 [25Jan2025 01:50:33.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> canchis canchis :v
 [25Jan2025 01:54:58.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> como salgo xd
 [25Jan2025 01:55:07.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> rompiendo una parte
+[25Jan2025 02:01:28.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[25Jan2025 02:01:28.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
