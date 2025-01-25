@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_button": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-21 18:13:09 +0000"
@@ -683,6 +689,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-01-21 18:52:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_trapdoor": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
   },
@@ -1080,6 +1092,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_pressure_plate": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -1179,6 +1197,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-22 19:57:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_slab": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
   },
@@ -1539,6 +1563,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-21 18:09:27 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_door": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
   },
@@ -2091,6 +2121,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_stairs": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 20:45:16 +0000"
@@ -2331,6 +2367,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_fence_gate": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-22 19:38:52 +0000"
@@ -2522,6 +2564,12 @@
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence": {
+    "criteria": {
+      "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
   },
@@ -3668,6 +3716,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-22 19:43:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_sign": {
+    "criteria": {
+      "has_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
   },
