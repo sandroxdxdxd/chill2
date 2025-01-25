@@ -200,3 +200,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [25Jan2025 17:26:06.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:48565] logged in with entity id 1426 at (168.0659912929221, 64.25220334025373, -1233.4604676044373)
 [25Jan2025 17:26:06.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
 [25Jan2025 17:26:06.676] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[25Jan2025 17:27:01.390] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e71a8a
+[25Jan2025 17:27:01.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:53571] logged in with entity id 2028 at (340.526389357258, 65.0, -1346.078856576012)
+[25Jan2025 17:27:01.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[25Jan2025 17:27:01.486] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[25Jan2025 17:28:10.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61a17a90
+[25Jan2025 17:28:10.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:39043] logged in with entity id 2461 at (337.28932300895946, 99.0, -1360.0416653926582)
+[25Jan2025 17:28:10.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[25Jan2025 17:28:10.089] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[25Jan2025 17:28:50.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> y porque la gente no esta en llamada xd
+[25Jan2025 17:29:00.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> preguntales
+[25Jan2025 17:29:04.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> hay villager por donde estoy
+[25Jan2025 17:29:05.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> pos nomas
+[25Jan2025 17:30:23.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/3181, l='ServerLevel[world]', x=29.50, y=72.00, z=-1253.50]
+[25Jan2025 17:30:30.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/3230, l='ServerLevel[world]', x=28.50, y=72.00, z=-1253.50]
+[25Jan2025 17:31:49.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=61, z=-1273} BlockPos{x=357, y=62, z=-1273}
+[25Jan2025 17:32:26.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> cual era la comida de las ovejas?
+[25Jan2025 17:32:30.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> y burros?
+[25Jan2025 17:32:31.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> trigo
+[25Jan2025 17:32:33.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> vengan a llamada, sean sociables xd
+[25Jan2025 17:32:42.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> me pides demasiado
+[25Jan2025 17:32:48.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[25Jan2025 17:34:03.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien se puso a talar mis arboles y los dejo a medias?
+[25Jan2025 17:34:34.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> :no_se:
