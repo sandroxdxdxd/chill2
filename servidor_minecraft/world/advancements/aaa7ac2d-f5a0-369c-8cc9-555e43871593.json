@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -925,6 +931,12 @@
       "has_bucket": "2025-01-22 20:45:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1297,6 +1309,12 @@
       "has_planks": "2025-01-22 19:21:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "ecologics:recipes/ecologics/coconut_fence_gate": {
     "criteria": {
@@ -1694,6 +1712,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-24 14:47:37 +0000"
@@ -1717,6 +1741,12 @@
       "has_walnut_planks": "2025-01-25 01:52:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1843,6 +1873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-22 21:39:15 +0000"
@@ -1890,6 +1926,12 @@
       "has_planks": "2025-01-24 14:47:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2274,6 +2316,12 @@
       "has_white_wool": "2025-01-21 18:12:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
@@ -2734,6 +2782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-01-21 18:02:02 +0000"
@@ -3016,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-21 18:00:33 +0000"
@@ -3093,6 +3153,12 @@
       "has_bucket": "2025-01-22 20:45:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
@@ -3322,6 +3388,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_planks": "2025-01-22 19:21:36 +0000"
@@ -3361,6 +3433,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
     },
     "done": true
   },
@@ -3932,6 +4010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-25 18:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-21 18:45:26 +0000"
@@ -4088,6 +4172,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 18:16:45 +0000"
@@ -4115,6 +4205,13 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 18:12:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-25 18:51:21 +0000",
+      "log_spam_fixer": "2025-01-25 18:51:18 +0000"
     },
     "done": true
   },
