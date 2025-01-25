@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-01-25 17:51:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-22 02:35:26 +0000"
@@ -445,7 +451,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -661,7 +667,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -907,7 +913,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -1922,7 +1928,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -2342,10 +2348,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-25 17:45:43 +0000",
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
-    "done": true
+    "done": false
   },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
@@ -3626,7 +3631,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -3714,7 +3719,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -3918,7 +3923,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -4355,7 +4360,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },
@@ -4951,7 +4956,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 17:45:18 +0000"
+      "log_spam_fixer": "2025-01-25 18:02:18 +0000"
     },
     "done": false
   },

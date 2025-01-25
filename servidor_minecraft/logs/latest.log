@@ -255,3 +255,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [25Jan2025 17:46:10.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
 [25Jan2025 17:46:10.073] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
 [25Jan2025 17:46:39.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [A Seedy Place]
+[25Jan2025 17:49:05.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> a mimir
+[25Jan2025 17:49:27.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> duerman crj :3
+[25Jan2025 17:49:28.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> a mimir
+[25Jan2025 17:49:30.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> !!!
+[25Jan2025 17:49:45.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ahora si duermen crj
+[25Jan2025 17:49:47.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta?
+[25Jan2025 17:49:50.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[25Jan2025 17:49:55.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Disconnected
+[25Jan2025 17:49:55.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[25Jan2025 17:50:15.688] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ad4c80a
+[25Jan2025 17:50:15.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheLeonel51[/127.199.42.72:33407] logged in with entity id 10078 at (334.4065796727015, 64.0, -1353.194831006587)
+[25Jan2025 17:50:15.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 joined the game
+[25Jan2025 17:50:15.716] [Server thread/INFO] [Waila/]: Syncing config to TheLeonel51 (aaa7ac2d-f5a0-369c-8cc9-555e43871593)
+[25Jan2025 17:50:54.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> toño una bruja va a tu casa
+[25Jan2025 17:51:12.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Surge Protector]
+[25Jan2025 17:51:12.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 has made the advancement [Surge Protector]
+[25Jan2025 17:51:12.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Surge Protector]
+[25Jan2025 17:51:25.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was doomed to fall
+[25Jan2025 17:51:37.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 fell from a high place
+[25Jan2025 17:51:41.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xd
+[25Jan2025 17:58:29.724] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/12816, l='ServerLevel[world]', x=486.50, y=71.00, z=-1534.50]
+[25Jan2025 18:00:49.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13586, l='ServerLevel[world]', x=463.50, y=73.00, z=-1527.50]
+[25Jan2025 18:01:11.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> las brujas son de las que juegan pvp
+[25Jan2025 18:01:37.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> zmzmzm
+[25Jan2025 18:03:07.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [The Parrots and the Bats]
+[25Jan2025 18:04:08.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> a mimir gent
+[25Jan2025 18:04:42.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> dyerman
+[25Jan2025 18:05:03.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> cuidado con las brujas, hace rato me tiraron 7 pociones distintas
+[25Jan2025 18:05:09.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdxdxdxdxd
+[25Jan2025 18:05:16.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was blown up by Creeper
+[25Jan2025 18:05:21.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> xd
+[25Jan2025 18:05:22.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[25Jan2025 18:05:24.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> xD
+[25Jan2025 18:05:28.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xd
+[25Jan2025 18:05:52.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> quien falta dormir?
+[25Jan2025 18:05:57.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> pero fuerman o f1
+[25Jan2025 18:06:15.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/15205, l='ServerLevel[world]', x=469.50, y=74.00, z=-1525.50]
+[25Jan2025 18:06:29.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> y va amanecer y nada xd
