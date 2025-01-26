@@ -490,3 +490,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 19:56:01.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> AEA
 [26Jan2025 19:57:08.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 lost connection: Timed out
 [26Jan2025 19:57:08.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 left the game
+[26Jan2025 20:10:33.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=349, y=56, z=-1287} BlockPos{x=349, y=55, z=-1288}
+[26Jan2025 20:10:36.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=348, y=57, z=-1285} BlockPos{x=348, y=55, z=-1285}
+[26Jan2025 20:10:54.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=56, z=-1286} BlockPos{x=346, y=57, z=-1286}
+[26Jan2025 20:14:27.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> leon duermes?
+[26Jan2025 20:14:32.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[26Jan2025 20:14:32.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[26Jan2025 20:18:42.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Tactical Fishing]
