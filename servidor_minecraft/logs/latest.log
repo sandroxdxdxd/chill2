@@ -621,3 +621,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 22:00:21.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [26Jan2025 22:00:29.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [26Jan2025 22:00:37.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:01:33.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:02:27.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:03:44.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:03:48.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 moved wrongly!
+[26Jan2025 22:05:56.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> dormamos pa que se pase lluvia
+[26Jan2025 22:06:06.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> lloverá
+[26Jan2025 22:06:14.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> y ya no seré tuya
+[26Jan2025 22:06:16.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> altoque antonio
+[26Jan2025 22:06:24.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> sere la gata
+[26Jan2025 22:06:30.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> bajo la luviaaaaaaaaaaaa
+[26Jan2025 22:06:30.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> BAJO LA LLUVIA!!!
+[26Jan2025 22:06:32.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerman
+[26Jan2025 22:06:32.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Disconnected
+[26Jan2025 22:06:32.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[26Jan2025 22:06:36.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Disconnected
+[26Jan2025 22:06:36.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[26Jan2025 22:06:40.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> XDDDD
+[26Jan2025 22:06:53.692] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41e5912
+[26Jan2025 22:06:53.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.237.55.32:51621] logged in with entity id 90173 at (545.0893513773816, 68.0, -1172.8285432036569)
+[26Jan2025 22:06:53.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[26Jan2025 22:06:53.706] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[26Jan2025 22:07:11.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:07:58.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:08:03.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:08:41.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> creo que hare 2 pisos mas ahora XD
+[26Jan2025 22:08:55.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> anto y la mayo?
+[26Jan2025 22:09:17.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> ahi entra
+[26Jan2025 22:09:56.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=578, y=70, z=-1192} BlockPos{x=578, y=69, z=-1191}
+[26Jan2025 22:09:58.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=573, y=68, z=-1190} BlockPos{x=574, y=68, z=-1190}
+[26Jan2025 22:09:59.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=67, z=-1188} BlockPos{x=576, y=67, z=-1188}
+[26Jan2025 22:09:59.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=67, z=-1188} BlockPos{x=576, y=67, z=-1188}
+[26Jan2025 22:09:59.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=68, z=-1187} BlockPos{x=576, y=67, z=-1188}
+[26Jan2025 22:10:19.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=557, y=64, z=-1173} BlockPos{x=555, y=64, z=-1175}
+[26Jan2025 22:11:10.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
