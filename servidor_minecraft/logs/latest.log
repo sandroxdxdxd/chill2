@@ -556,3 +556,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 21:19:44.947] [Server thread/INFO] [Waila/]: Syncing config to Soul1234_XD (b443f935-a103-3b73-8911-6af38bb8ae14)
 [26Jan2025 21:19:55.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soul1234_XD lost connection: Disconnected
 [26Jan2025 21:19:55.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD left the game
+[26Jan2025 21:26:01.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:26:34.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:29:56.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:30:34.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
