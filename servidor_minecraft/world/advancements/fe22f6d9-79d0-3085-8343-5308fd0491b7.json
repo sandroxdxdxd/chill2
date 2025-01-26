@@ -2114,6 +2114,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-26 22:34:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-01-22 02:38:30 +0000"
@@ -2734,6 +2740,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-26 22:34:17 +0000",
       "in_better_spider_dungeon": "2025-01-22 02:34:24 +0000"
     },
     "done": false

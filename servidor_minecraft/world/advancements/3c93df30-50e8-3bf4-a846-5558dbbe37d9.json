@@ -253,6 +253,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-26 22:34:18 +0000",
       "in_better_spider_dungeon": "2025-01-24 13:51:06 +0000"
     },
     "done": false
@@ -3260,6 +3261,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-26 22:34:18 +0000"
     },
     "done": true
   },
