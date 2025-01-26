@@ -526,3 +526,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 20:34:02.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [26Jan2025 20:34:21.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [26Jan2025 20:38:43.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 20:40:30.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Crops of the Wild]
+[26Jan2025 20:50:12.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[26Jan2025 20:50:12.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game

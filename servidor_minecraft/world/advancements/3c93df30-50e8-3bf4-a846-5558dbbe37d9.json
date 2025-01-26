@@ -1161,6 +1161,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 20:40:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
@@ -1778,6 +1784,12 @@
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 20:40:30 +0000"
     },
     "done": true
   },
@@ -3001,6 +3013,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-01-26 20:40:38 +0000",
       "beetroot": "2025-01-23 01:10:03 +0000",
       "wheat": "2025-01-22 20:02:25 +0000",
       "carrot": "2025-01-24 02:43:02 +0000"
@@ -3244,6 +3257,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-01-26 20:40:30 +0000"
     },
     "done": true
   },
@@ -3704,6 +3723,12 @@
       "textures/entity/cat/calico.png": "2025-01-23 03:20:44 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-26 20:40:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
