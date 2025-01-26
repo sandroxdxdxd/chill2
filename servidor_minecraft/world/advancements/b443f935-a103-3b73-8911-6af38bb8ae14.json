@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-26 21:13:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
@@ -7,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -17,7 +23,19 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-26 19:51:43 +0000"
     },
@@ -29,15 +47,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+  "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
-      "has_cobblestone": "2025-01-26 19:51:43 +0000"
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-26 21:13:53 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-26 19:53:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -71,6 +113,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-26 21:13:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-26 19:48:56 +0000"
@@ -89,29 +149,35 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-01-26 19:53:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-01-26 19:46:56 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "has_lots_of_items": "2025-01-26 19:53:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
@@ -137,15 +203,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "has_feather": "2025-01-26 19:53:21 +0000"
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-26 19:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-26 19:53:21 +0000"
     },
     "done": true
   },
@@ -158,6 +230,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2025-01-26 19:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -185,6 +263,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-26 21:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-26 19:53:22 +0000"
@@ -209,15 +293,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-01-26 19:48:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-01-26 19:48:56 +0000"
     },
     "done": true
   },
@@ -239,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-26 21:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-26 19:48:20 +0000"
@@ -251,9 +341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_cobblestone": "2025-01-26 19:51:43 +0000"
+      "has_bone": "2025-01-26 21:12:50 +0000"
     },
     "done": true
   },
@@ -263,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-26 19:51:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "seasonal_forest": "2025-01-26 19:46:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -293,6 +395,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-26 19:48:20 +0000"
@@ -305,11 +413,23 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-26 19:40:59 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
@@ -317,9 +437,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_chicken": "2025-01-26 19:53:21 +0000"
+      "has_string": "2025-01-26 21:13:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-26 19:40:59 +0000"
     },
     "done": true
   },
@@ -329,9 +455,9 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "always": "2025-01-26 19:40:59 +0000"
+      "has_chicken": "2025-01-26 19:53:21 +0000"
     },
     "done": true
   },
@@ -361,7 +487,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -383,17 +509,17 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-26 19:51:43 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "seasonal_forest": "2025-01-26 19:46:51 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-26 19:51:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
@@ -403,7 +529,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -413,10 +539,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-01-26 19:46:47 +0000",
       "minecraft:stony_shore": "2025-01-26 19:51:37 +0000",
+      "minecraft:cold_ocean": "2025-01-26 21:12:26 +0000",
       "minecraft:plains": "2025-01-26 19:40:59 +0000"
     },
     "done": false
@@ -433,17 +566,23 @@
     },
     "done": true
   },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 19:40:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-26 19:51:43 +0000"
     },
     "done": true
   },
-  "incendium:technical/using/ragnarok": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:40:59 +0000"
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -457,12 +596,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-01-26 19:51:43 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
@@ -472,6 +605,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-26 19:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-26 19:51:43 +0000"
     },
     "done": true
   },
@@ -505,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-26 19:51:43 +0000"
@@ -525,7 +670,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -537,13 +682,19 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-26 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -561,7 +712,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -571,9 +722,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-26 21:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-01-26 19:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -585,7 +748,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -595,17 +758,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stone_chair": {
     "criteria": {
@@ -628,6 +791,12 @@
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
     },
     "done": true
   },
@@ -673,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-26 21:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-26 19:51:43 +0000"
@@ -687,7 +862,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 19:54:49 +0000"
+      "log_spam_fixer": "2025-01-26 21:19:48 +0000"
     },
     "done": false
   },
@@ -697,15 +872,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-01-26 19:51:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-26 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-26 19:51:21 +0000"
     },
     "done": true
   },

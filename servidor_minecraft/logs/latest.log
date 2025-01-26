@@ -538,3 +538,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 21:01:33.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.915133421646317
 [26Jan2025 21:01:33.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.888512971055718
 [26Jan2025 21:01:33.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.8020279710557361
+[26Jan2025 21:10:42.889] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@726f2fde
+[26Jan2025 21:10:42.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soul1234_XD[/127.147.106.30:34713] logged in with entity id 75008 at (185.5558708632856, 65.0, -78.69999998807907)
+[26Jan2025 21:10:42.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD joined the game
+[26Jan2025 21:10:42.908] [Server thread/INFO] [Waila/]: Syncing config to Soul1234_XD (b443f935-a103-3b73-8911-6af38bb8ae14)
+[26Jan2025 21:10:50.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD was slain by Spider
+[26Jan2025 21:10:55.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[26Jan2025 21:12:37.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD was shot by Skeleton
+[26Jan2025 21:14:20.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD was slain by Drowned
+[26Jan2025 21:14:31.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soul1234_XD lost connection: Disconnected
+[26Jan2025 21:14:31.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD left the game
+[26Jan2025 21:16:42.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:16:46.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:19:44.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@685d902c
+[26Jan2025 21:19:44.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soul1234_XD[/127.147.106.30:43391] logged in with entity id 79318 at (305.30000001192093, 62.0, -118.11946090935274)
+[26Jan2025 21:19:44.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD joined the game
+[26Jan2025 21:19:44.947] [Server thread/INFO] [Waila/]: Syncing config to Soul1234_XD (b443f935-a103-3b73-8911-6af38bb8ae14)
+[26Jan2025 21:19:55.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soul1234_XD lost connection: Disconnected
+[26Jan2025 21:19:55.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD left the game
