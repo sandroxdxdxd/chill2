@@ -470,3 +470,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 19:35:32.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> DUERMA
 [26Jan2025 19:36:20.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [26Jan2025 19:37:50.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 19:40:17.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was blown up by Creeper
+[26Jan2025 19:40:59.444] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6498d7c2
+[26Jan2025 19:40:59.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soul1234_XD[/127.147.106.30:49947] logged in with entity id 54050 at (-4.5, 80.0, 10.5)
+[26Jan2025 19:40:59.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD joined the game
+[26Jan2025 19:40:59.470] [Server thread/INFO] [Waila/]: Syncing config to Soul1234_XD (b443f935-a103-3b73-8911-6af38bb8ae14)
+[26Jan2025 19:41:02.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 19:41:09.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 19:41:14.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD was shot by Skeleton
+[26Jan2025 19:44:22.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 19:51:43.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD has made the advancement [Stone Age]
+[26Jan2025 19:52:46.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD has made the advancement [Getting an Upgrade]
+[26Jan2025 19:53:48.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD was blown up by Creeper
+[26Jan2025 19:54:50.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soul1234_XD lost connection: Disconnected
+[26Jan2025 19:54:50.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Soul1234_XD left the game
+[26Jan2025 19:55:38.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> OE COVID COMO SE CONSIGUE EL HORMIGON
+[26Jan2025 19:55:40.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> XD
+[26Jan2025 19:55:52.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> no me acuerdo XD
+[26Jan2025 19:56:01.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GoldenLeon98> AEA
+[26Jan2025 19:57:08.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 lost connection: Timed out
+[26Jan2025 19:57:08.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 left the game
