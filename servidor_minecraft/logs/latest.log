@@ -655,3 +655,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 22:09:59.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=577, y=68, z=-1187} BlockPos{x=576, y=67, z=-1188}
 [26Jan2025 22:10:19.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=557, y=64, z=-1173} BlockPos{x=555, y=64, z=-1175}
 [26Jan2025 22:11:10.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:11:42.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=64, z=-1162} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:42.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=64, z=-1162} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:42.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=64, z=-1162} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:42.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=64, z=-1162} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:43.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=524, y=65, z=-1161} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:43.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=524, y=65, z=-1161} BlockPos{x=527, y=63, z=-1164}
+[26Jan2025 22:11:47.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=529, y=63, z=-1144} BlockPos{x=532, y=64, z=-1144}
+[26Jan2025 22:11:47.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=529, y=63, z=-1144} BlockPos{x=532, y=64, z=-1144}
+[26Jan2025 22:11:48.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=-1142} BlockPos{x=528, y=62, z=-1147}
+[26Jan2025 22:11:48.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=-1142} BlockPos{x=528, y=62, z=-1147}
+[26Jan2025 22:12:00.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=533, y=65, z=-1163} BlockPos{x=534, y=63, z=-1164}
+[26Jan2025 22:12:00.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=65, z=-1164} BlockPos{x=536, y=63, z=-1164}
+[26Jan2025 22:12:00.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=535, y=65, z=-1164} BlockPos{x=536, y=63, z=-1164}
+[26Jan2025 22:12:04.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=532, y=65, z=-1184} BlockPos{x=532, y=63, z=-1184}
+[26Jan2025 22:12:05.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=533, y=66, z=-1188} BlockPos{x=533, y=64, z=-1189}
+[26Jan2025 22:12:06.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=538, y=66, z=-1195} BlockPos{x=537, y=64, z=-1194}
+[26Jan2025 22:12:17.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:13:19.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:13:43.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:15:04.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[26Jan2025 22:15:04.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[26Jan2025 22:18:51.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:19:10.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:19:17.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:19:35.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:19:42.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> tienes etiqueta?
+[26Jan2025 22:19:57.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> los zombies no se suben a barcos no? :,v
+[26Jan2025 22:20:43.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ni
+[26Jan2025 22:20:47.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> si suben
+[26Jan2025 22:20:59.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> lo intente varias veces y nada ._.
+[26Jan2025 22:21:11.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:21:15.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:21:41.289] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e394e68
+[26Jan2025 22:21:41.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:56017] logged in with entity id 93721 at (548.6547639781029, 64.0, -1225.9184595205436)
+[26Jan2025 22:21:41.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[26Jan2025 22:21:41.304] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[26Jan2025 22:22:07.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:22:43.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.3056574126724172
+[26Jan2025 22:22:43.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mau_Mayito) moved wrongly! 0.2631970705447202
+[26Jan2025 22:22:58.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> no se suben
+[26Jan2025 22:24:08.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> duerme
+[26Jan2025 22:24:36.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> duerme sebas
+[26Jan2025 22:24:44.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> sebas no esta xD
+[26Jan2025 22:24:52.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> a mayu XD
+[26Jan2025 22:24:58.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> era toño
+[26Jan2025 22:25:12.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> oe los zombies no se suben a barcos :,v
+[26Jan2025 22:25:22.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> F nomas
+[26Jan2025 22:25:29.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> creo que en esta version no suben
+[26Jan2025 22:25:33.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> tienes etiqueta?
+[26Jan2025 22:25:54.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> que fue
+[26Jan2025 22:25:59.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> tienes etiqueta?
+[26Jan2025 22:26:06.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> si creo pera
+[26Jan2025 22:26:25.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> gracias
+[26Jan2025 22:26:31.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya péro besame
+[26Jan2025 22:26:39.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> mau se pondra celosa
+[26Jan2025 22:26:50.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> que importa XD
+[26Jan2025 22:26:55.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[26Jan2025 22:27:04.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> lo que no ve no le hace daño XD
+[26Jan2025 22:27:18.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[26Jan2025 22:27:29.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=72, z=-1119} BlockPos{x=548, y=70, z=-1119}
+[26Jan2025 22:27:47.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was blown up by Creeper
+[26Jan2025 22:30:18.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:30:57.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
