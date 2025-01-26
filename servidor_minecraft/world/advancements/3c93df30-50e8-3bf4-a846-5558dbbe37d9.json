@@ -717,12 +717,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
@@ -1047,12 +1041,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-22 19:11:00 +0000"
@@ -1347,12 +1335,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-26 17:29:27 +0000"
@@ -1376,12 +1358,6 @@
       "has_walnut_planks": "2025-01-24 15:44:39 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1528,12 +1504,6 @@
       "has_planks": "2025-01-22 20:05:59 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/diorite_coffee_table": {
     "criteria": {
@@ -1768,12 +1738,6 @@
       "has_white_wool": "2025-01-24 15:48:33 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
@@ -2579,12 +2543,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-22 20:20:34 +0000"
@@ -2776,12 +2734,6 @@
       "has_stone_bricks": "2025-01-22 20:30:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -3373,12 +3325,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-01-24 15:43:43 +0000"
@@ -3414,12 +3360,6 @@
       "has_andesite": "2025-01-24 15:49:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 19:18:48 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
