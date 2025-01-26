@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 18:09:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-01-22 19:28:21 +0000"
@@ -713,7 +719,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -786,6 +792,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-24 15:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -867,6 +879,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-23 01:17:55 +0000"
@@ -885,9 +903,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -1019,7 +1049,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -1089,6 +1119,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/sandcastle": {
     "criteria": {
       "has_seashell": "2025-01-24 03:39:41 +0000"
@@ -1128,6 +1164,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-22 19:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 18:09:47 +0000"
     },
     "done": true
   },
@@ -1251,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-26 17:29:27 +0000"
@@ -1301,7 +1349,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -1331,7 +1379,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -1382,6 +1430,12 @@
   "cfm:recipes/cfm/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2025-01-24 15:33:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -1477,7 +1531,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -1717,7 +1771,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -1754,6 +1808,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-24 15:48:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -2021,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-24 02:53:54 +0000"
@@ -2186,6 +2252,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-01-25 18:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -2471,6 +2543,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-26 18:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:18:50 +0000"
@@ -2497,7 +2581,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -2573,6 +2657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-23 01:05:20 +0000"
@@ -2639,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-22 19:03:45 +0000"
@@ -2683,7 +2779,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -2983,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-26 17:29:27 +0000"
@@ -3103,6 +3205,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-01-22 19:07:01 +0000"
@@ -3136,6 +3244,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-22 19:15:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
@@ -3261,7 +3375,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -3303,7 +3417,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:53:48 +0000"
+      "log_spam_fixer": "2025-01-26 18:13:48 +0000"
     },
     "done": false
   },
@@ -3316,6 +3430,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-24 14:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-26 17:57:37 +0000"
     },
     "done": true
   },
