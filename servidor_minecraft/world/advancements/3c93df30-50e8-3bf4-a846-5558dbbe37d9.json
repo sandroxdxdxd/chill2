@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-23 03:08:18 +0000"
@@ -248,6 +254,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-22 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -701,7 +713,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -927,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-24 15:33:41 +0000"
@@ -948,6 +966,12 @@
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-01-26 17:07:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -995,7 +1019,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -1227,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-22 20:18:50 +0000"
@@ -1271,9 +1301,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
@@ -1295,7 +1331,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -1441,9 +1477,15 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1583,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 03:54:43 +0000"
@@ -1669,7 +1717,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -1796,6 +1844,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-22 21:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -2075,6 +2129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-22 21:00:37 +0000"
@@ -2162,6 +2222,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-23 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -2288,6 +2354,12 @@
   "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-01-24 15:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -2425,7 +2497,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -2611,7 +2683,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -2680,6 +2752,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-24 02:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -2893,9 +2971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-26 17:29:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-01-25 18:24:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -2908,6 +2998,12 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_planks": "2025-01-22 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -3022,6 +3118,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-22 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
@@ -3159,7 +3261,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -3201,7 +3303,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 17:23:48 +0000"
+      "log_spam_fixer": "2025-01-26 17:33:48 +0000"
     },
     "done": false
   },
@@ -3282,6 +3384,12 @@
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-01-24 15:41:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-26 17:29:27 +0000"
     },
     "done": true
   },
