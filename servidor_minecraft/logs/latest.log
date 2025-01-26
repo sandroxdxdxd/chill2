@@ -594,3 +594,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 21:48:23.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
 [26Jan2025 21:49:22.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [26Jan2025 21:50:45.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:51:18.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:51:50.044] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44fd49f1
+[26Jan2025 21:51:50.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:39711] logged in with entity id 85225 at (494.9251423923842, 59.0, -1513.6009742303206)
+[26Jan2025 21:51:50.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[26Jan2025 21:51:50.059] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[26Jan2025 21:53:00.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> antonio, como vez que anda quedando mi casa?
+[26Jan2025 21:53:24.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerman
+[26Jan2025 21:53:25.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> papus
+[26Jan2025 21:56:50.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> tienen manzana dorada?
+[26Jan2025 21:56:54.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> si
+[26Jan2025 21:56:58.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> si
+[26Jan2025 21:57:02.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> pasen dos ps
+[26Jan2025 21:57:04.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> quien no tiene
+[26Jan2025 21:57:07.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya covid
+[26Jan2025 21:57:07.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> chi
+[26Jan2025 21:57:14.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya ven pe
+[26Jan2025 21:57:27.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:57:41.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ty
+[26Jan2025 21:57:46.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya ta
+[26Jan2025 21:57:53.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ty
+[26Jan2025 21:59:08.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[26Jan2025 21:59:13.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:59:14.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:59:50.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:00:21.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 22:00:29.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 22:00:37.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
