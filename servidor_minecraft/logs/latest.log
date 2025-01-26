@@ -533,3 +533,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 20:57:28.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [26Jan2025 20:58:53.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [26Jan2025 20:59:26.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 21:01:04.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 21:01:33.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.9648838281249823
+[26Jan2025 21:01:33.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.915133421646317
+[26Jan2025 21:01:33.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.888512971055718
+[26Jan2025 21:01:33.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mau_Mayito) moved wrongly! 0.8020279710557361
