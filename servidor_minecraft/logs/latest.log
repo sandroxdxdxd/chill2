@@ -497,3 +497,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [26Jan2025 20:14:32.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
 [26Jan2025 20:14:32.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
 [26Jan2025 20:18:42.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Tactical Fishing]
+[26Jan2025 20:23:33.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21bb41d3
+[26Jan2025 20:23:33.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:35383] logged in with entity id 64215 at (487.4434020047853, 61.0, -1508.300000011921)
+[26Jan2025 20:23:33.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[26Jan2025 20:23:33.175] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[26Jan2025 20:27:06.853] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59d6d94c
+[26Jan2025 20:27:06.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elcovid19[/127.84.251.109:38069] logged in with entity id 64842 at (406.59549519651, 76.0, -1379.425402435694)
+[26Jan2025 20:27:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 joined the game
+[26Jan2025 20:27:06.879] [Server thread/INFO] [Waila/]: Syncing config to Elcovid19 (7f5a0701-955c-3f51-900f-653f1209277c)
+[26Jan2025 20:29:18.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 20:29:52.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 20:30:35.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya es hora
+[26Jan2025 20:30:39.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> es hora de dormir
+[26Jan2025 20:30:51.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> duerme solo
+[26Jan2025 20:30:53.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> caracho
+[26Jan2025 20:31:04.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> pideme dormir
+[26Jan2025 20:31:06.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ni mas
+[26Jan2025 20:31:08.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> >:c
+[26Jan2025 20:31:15.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> XD
+[26Jan2025 20:31:22.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> ni cama tienes crj
+[26Jan2025 20:31:32.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> si tengo
+[26Jan2025 20:31:34.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> wa
+[26Jan2025 20:32:09.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> duerman duerman
+[26Jan2025 20:32:15.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> duerme sola
+[26Jan2025 20:32:18.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[26Jan2025 20:32:20.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> si deseo
+[26Jan2025 20:32:24.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> Uwu
+[26Jan2025 20:34:02.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[26Jan2025 20:34:21.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[26Jan2025 20:38:43.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
