@@ -898,12 +898,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-20 20:20:44 +0000"
@@ -1305,12 +1299,6 @@
       "has_quartz_block": "2025-01-20 21:09:48 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -1714,12 +1702,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-20 19:11:40 +0000"
@@ -1737,12 +1719,6 @@
       "has_walnut_planks": "2025-01-20 18:11:20 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -1878,12 +1854,6 @@
       "has_planks": "2025-01-20 19:11:40 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -2202,12 +2172,6 @@
       "has_white_wool": "2025-01-20 19:03:33 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -3128,12 +3092,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-20 19:13:22 +0000"
@@ -3403,12 +3361,6 @@
       "has_stone_bricks": "2025-01-20 20:43:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
@@ -4157,12 +4109,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-01-20 20:39:48 +0000"
@@ -4198,12 +4144,6 @@
       "has_andesite": "2025-01-20 19:24:07 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 17:31:48 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
