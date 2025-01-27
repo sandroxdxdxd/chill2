@@ -487,3 +487,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 15:22:02.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of Mau_Mayito) moved wrongly! 0.5722437593612995
 [27Jan2025 15:22:15.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
 [27Jan2025 15:22:30.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:23:04.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:24:47.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:24:49.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:24:52.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:26:18.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Cover Me with Diamonds]
+[27Jan2025 15:27:12.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:28:23.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:29:22.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.4326302338452592
+[27Jan2025 15:29:22.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.4422622783202428
+[27Jan2025 15:29:22.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.46054424868867727
+[27Jan2025 15:29:22.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.4901532256531027
+[27Jan2025 15:29:22.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.4577142859443484
+[27Jan2025 15:29:22.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.42221888475813785
+[27Jan2025 15:29:22.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.5
+[27Jan2025 15:29:26.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f57dce1
+[27Jan2025 15:29:26.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:33137] logged in with entity id 43586 at (487.5, 59.0, -1517.5)
+[27Jan2025 15:29:26.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[27Jan2025 15:29:26.658] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[27Jan2025 15:29:42.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> milanesa de lechuga
+[27Jan2025 15:30:50.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of Elcovid19) moved wrongly! 0.44347064919247714
+[27Jan2025 15:30:50.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of Elcovid19) moved wrongly! 0.7459875983499842
+[27Jan2025 15:30:50.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of Elcovid19) moved wrongly! 1.0
+[27Jan2025 15:30:50.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of Elcovid19) moved wrongly! 1.0
+[27Jan2025 15:30:56.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:31:27.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:32:45.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[27Jan2025 15:32:57.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> pero luego que hara con el caballo?...
+[27Jan2025 15:33:03.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> D:
