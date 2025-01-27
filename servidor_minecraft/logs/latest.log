@@ -228,3 +228,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 14:08:07.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [27Jan2025 14:08:25.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> leonel entra a llamada pe
 [27Jan2025 14:10:50.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Diamonds!]
+[27Jan2025 14:12:29.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@335fccc7[id=<null>,name=ItsSebas,properties={},legacy=false] (/127.154.240.212:52655) lost connection: Disconnected
+[27Jan2025 14:16:33.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4dc80b15
+[27Jan2025 14:16:33.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:59115] logged in with entity id 13650 at (493.50119030287584, 59.0, -1513.9695131106607)
+[27Jan2025 14:16:33.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[27Jan2025 14:16:33.222] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[27Jan2025 14:16:42.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> yepa
+[27Jan2025 14:17:16.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 fell from a high place
+[27Jan2025 14:17:21.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[27Jan2025 14:21:59.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> sleep
