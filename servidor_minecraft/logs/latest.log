@@ -1184,3 +1184,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 17:00:28.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
 [27Jan2025 17:00:28.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
 [27Jan2025 17:00:49.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [Strange Biomes]
+[27Jan2025 17:04:17.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=66, z=-1333} BlockPos{x=378, y=64, z=-1347}
+[27Jan2025 17:06:48.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set 1000000000 experience levels on Elcovid19]
+[27Jan2025 17:07:03.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:07:22.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [War Pigs]
+[27Jan2025 17:07:32.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [Who is Cutting Onions?]
+[27Jan2025 17:07:38.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [Hidden in the Depths]
+[27Jan2025 17:09:23.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 17:10:00.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:10:52.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 17:10:58.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[27Jan2025 17:11:00.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 17:11:01.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:11:16.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 17:11:20.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:11:48.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Spectator Mode]
+[27Jan2025 17:12:00.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:12:12.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito has made the advancement [Those Were the Days]
+[27Jan2025 17:12:50.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Spectator Mode]
+[27Jan2025 17:12:51.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 17:12:53.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
