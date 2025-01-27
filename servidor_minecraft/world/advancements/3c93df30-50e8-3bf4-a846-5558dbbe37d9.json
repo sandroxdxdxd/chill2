@@ -1502,6 +1502,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_planks": {
+    "criteria": {
+      "has_log": "2025-01-27 16:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-24 15:43:43 +0000"
@@ -2811,6 +2817,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-24 15:49:52 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 16:43:58 +0000"
     },
     "done": true
   },

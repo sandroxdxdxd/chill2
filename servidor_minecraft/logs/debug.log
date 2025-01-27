@@ -4404,3 +4404,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 16:38:00.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jan2025 16:43:00.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jan2025 16:43:00.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:44:52.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has reached the goal [Dinner's Served!]
+[27Jan2025 16:44:58.437] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.jump_strength'
+[27Jan2025 16:44:58.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Summoned new Horse]
+[27Jan2025 16:45:14.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3176205126416676
+[27Jan2025 16:45:14.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.48854237338201756
+[27Jan2025 16:45:14.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 1.1753482478726482
+[27Jan2025 16:45:14.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 1.871304758960889
+[27Jan2025 16:45:14.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 2.5721575932485052
+[27Jan2025 16:45:14.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.5845869243284483
+[27Jan2025 16:45:14.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.5885884673534179
+[27Jan2025 16:45:15.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.5899712826048358
+[27Jan2025 16:45:27.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> no
+[27Jan2025 16:48:00.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:48:00.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 16:49:37.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.414409226330406
+[27Jan2025 16:49:37.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3949254331656107
+[27Jan2025 16:49:37.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3803040367164954
+[27Jan2025 16:49:37.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3677425358528126
+[27Jan2025 16:49:37.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.8550046335085995
+[27Jan2025 16:50:27.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[27Jan2025 16:50:31.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 16:50:33.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 16:51:16.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.257786917743033
+[27Jan2025 16:51:16.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.32477353957500554
+[27Jan2025 16:51:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3981895829377322
+[27Jan2025 16:51:16.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.475022687807666
+[27Jan2025 16:51:16.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 1.0519525325295263
+[27Jan2025 16:51:43.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 16:53:00.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 16:53:00.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
