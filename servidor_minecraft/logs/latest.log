@@ -290,3 +290,183 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 14:38:42.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdd
 [27Jan2025 14:38:52.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [Voluntary Exile]
 [27Jan2025 14:40:39.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has made the advancement [Ol' Betsy]
+[27Jan2025 14:43:46.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:43:59.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Voluntary Exile]
+[27Jan2025 14:44:17.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vindicator
+[27Jan2025 14:48:10.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TheLeonel51> xD
+[27Jan2025 14:48:20.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vex
+[27Jan2025 14:48:24.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> ya es hora es hora de dormir
+[27Jan2025 14:48:26.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[27Jan2025 14:48:26.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[27Jan2025 14:48:47.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of ItsSebas) moved wrongly! 0.253619270866011
+[27Jan2025 14:48:47.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of ItsSebas) moved wrongly! 0.5989967958823854
+[27Jan2025 14:48:47.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of ItsSebas) moved wrongly! 0.9410632152807921
+[27Jan2025 14:48:47.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luna (vehicle of ItsSebas) moved wrongly! 0.28135792807916005
+[27Jan2025 14:48:52.094] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fcb685c
+[27Jan2025 14:48:52.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:54375] logged in with entity id 25685 at (336.82783830469634, 99.0, -1361.3237133300306)
+[27Jan2025 14:48:52.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[27Jan2025 14:48:52.120] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[27Jan2025 14:49:07.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vex
+[27Jan2025 14:49:18.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was doomed to fall by Vex
+[27Jan2025 14:49:29.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 14:49:35.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 14:49:55.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vex
+[27Jan2025 14:49:55.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:50:05.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:50:28.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:50:56.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:51:13.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:51:15.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 fell from a high place
+[27Jan2025 14:51:30.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vindicator
+[27Jan2025 14:51:39.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:51:42.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vindicator
+[27Jan2025 14:51:43.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vindicator
+[27Jan2025 14:51:49.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was shot by Pillager
+[27Jan2025 14:51:51.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:51:57.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vindicator
+[27Jan2025 14:51:58.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:52:03.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:52:13.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:52:14.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Vindicator
+[27Jan2025 14:52:21.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:52:25.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 14:52:35.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:52:43.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 14:52:46.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vindicator
+[27Jan2025 14:52:49.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:53:00.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:53:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:53:03.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vindicator
+[27Jan2025 14:53:17.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:53:26.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Ravager
+[27Jan2025 14:53:50.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:54:12.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:54:25.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:54:37.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:55:18.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has reached the goal [Postmortal]
+[27Jan2025 14:55:31.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:55:50.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:56:15.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:56:26.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Vex
+[27Jan2025 14:57:04.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:57:09.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:57:17.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 14:57:25.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vex
+[27Jan2025 14:57:26.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:57:26.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:57:31.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:57:34.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 14:57:35.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 14:57:44.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:57:48.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:57:59.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 14:58:17.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:58:22.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 14:58:42.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set 1000000000 experience levels on Elcovid19]
+[27Jan2025 14:58:44.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 14:58:49.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:58:58.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:59:06.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:59:09.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3469, l='ServerLevel[world]', x=301.88, y=64.94, z=-1322.48] died, message: 'Farmer was killed by Evoker using magic'
+[27Jan2025 14:59:15.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:59:31.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Disconnected
+[27Jan2025 14:59:31.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[27Jan2025 14:59:35.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 14:59:37.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Disconnected
+[27Jan2025 14:59:37.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[27Jan2025 14:59:51.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsSebas lost connection: Disconnected
+[27Jan2025 14:59:51.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas left the game
+[27Jan2025 15:00:07.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17b444dc
+[27Jan2025 15:00:07.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.237.55.32:41103] logged in with entity id 31636 at (317.5, 65.0, -1327.5)
+[27Jan2025 15:00:07.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[27Jan2025 15:00:07.907] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[27Jan2025 15:00:13.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24680df1
+[27Jan2025 15:00:13.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsSebas[/127.154.240.212:47337] logged in with entity id 31666 at (453.7844189006318, 70.0, -1461.061117563367)
+[27Jan2025 15:00:13.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas joined the game
+[27Jan2025 15:00:13.457] [Server thread/INFO] [Waila/]: Syncing config to ItsSebas (ca562ab4-f90f-3f3c-b050-75782929424a)
+[27Jan2025 15:00:19.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66aa1846
+[27Jan2025 15:00:19.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:43975] logged in with entity id 31812 at (299.74883161801057, 65.0, -1318.2500800621888)
+[27Jan2025 15:00:19.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[27Jan2025 15:00:19.518] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[27Jan2025 15:00:32.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:00:53.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:00:55.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:01:05.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:01:16.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:01:19.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:01:30.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:01:34.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Vex
+[27Jan2025 15:01:46.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:01:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:01:52.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:01:52.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 15:02:00.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:02:29.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:02:41.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:02:56.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:02:57.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:03:06.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:03:21.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:03:25.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:03:48.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:03:54.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:04:00.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:04:12.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has made the advancement [Enchanter]
+[27Jan2025 15:04:12.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:04:35.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:04:58.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:05:07.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:05:08.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 15:05:47.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:05:48.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:06:16.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:06:33.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:06:33.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:06:38.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 15:06:39.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:06:44.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3458, l='ServerLevel[world]', x=305.50, y=64.94, z=-1322.30] died, message: 'Farmer was killed by Evoker using magic'
+[27Jan2025 15:07:00.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:07:05.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:07:06.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:07:14.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:07:23.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:07:25.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:07:29.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:07:40.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:08:16.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 15:08:27.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:08:34.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:08:37.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:08:43.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Vex
+[27Jan2025 15:08:47.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:08:51.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:08:53.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:08:57.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:09:05.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:09:21.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:09:32.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:09:38.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has made the advancement [Ol' Betsy]
+[27Jan2025 15:09:41.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:09:42.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:09:50.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 has completed the challenge [Hero of the Village]
+[27Jan2025 15:09:50.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 has completed the challenge [Hero of the Village]
+[27Jan2025 15:09:50.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 has completed the challenge [Hero of the Village]
+[27Jan2025 15:09:50.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas has completed the challenge [Hero of the Village]
+[27Jan2025 15:09:50.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 has completed the challenge [Hero of the Village]
+[27Jan2025 15:09:52.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Vex
+[27Jan2025 15:10:01.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:10:11.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Elcovid19 was slain by Vex
+[27Jan2025 15:10:15.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:10:19.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:10:37.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 was slain by Vex
+[27Jan2025 15:10:44.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:10:45.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 was kicked for floating too long!
+[27Jan2025 15:10:45.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Flying is not enabled on this server
+[27Jan2025 15:10:45.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[27Jan2025 15:10:45.381] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jan2025 15:10:51.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Vex
+[27Jan2025 15:11:06.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Vex
+[27Jan2025 15:11:30.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e354122
+[27Jan2025 15:11:30.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:34953] logged in with entity id 39052 at (307.55019627879767, 65.67647087614428, -1264.5129559736786)
+[27Jan2025 15:11:30.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[27Jan2025 15:11:31.007] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)

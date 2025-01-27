@@ -903,8 +903,11 @@
     "criteria": {
       "minecraft:pillager": "2025-01-26 19:25:06 +0000",
       "minecraft:skeleton": "2025-01-20 18:26:47 +0000",
+      "minecraft:ravager": "2025-01-27 14:53:58 +0000",
+      "minecraft:vindicator": "2025-01-27 14:38:30 +0000",
       "minecraft:spider": "2025-01-20 20:02:05 +0000",
       "minecraft:creeper": "2025-01-20 18:49:05 +0000",
+      "minecraft:evoker": "2025-01-27 14:44:13 +0000",
       "minecraft:phantom": "2025-01-22 22:30:58 +0000",
       "minecraft:witch": "2025-01-22 01:41:04 +0000",
       "minecraft:wither_skeleton": "2025-01-20 21:31:25 +0000",
@@ -912,6 +915,7 @@
       "minecraft:enderman": "2025-01-20 21:21:33 +0000",
       "minecraft:stray": "2025-01-20 21:08:54 +0000",
       "minecraft:silverfish": "2025-01-26 18:10:22 +0000",
+      "minecraft:vex": "2025-01-27 14:49:30 +0000",
       "minecraft:zombie": "2025-01-20 19:18:32 +0000",
       "minecraft:drowned": "2025-01-20 20:29:35 +0000",
       "minecraft:zombie_villager": "2025-01-20 18:29:14 +0000"
@@ -927,6 +931,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-20 20:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-27 15:04:12 +0000"
     },
     "done": true
   },
@@ -1005,6 +1015,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-20 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-27 14:38:52 +0000"
     },
     "done": true
   },
@@ -1635,6 +1651,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 19:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-27 14:55:18 +0000"
     },
     "done": true
   },
