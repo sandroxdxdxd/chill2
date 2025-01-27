@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-01-27 16:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-20 19:54:02 +0000"
@@ -278,6 +284,12 @@
   "cfm:recipes/cfm/orange_picket_gate": {
     "criteria": {
       "has_gate": "2025-01-22 03:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
     },
     "done": true
   },
@@ -545,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2025-01-20 20:12:17 +0000"
@@ -632,6 +650,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-20 20:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
     },
     "done": true
   },
@@ -1061,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-01-20 20:23:41 +0000"
@@ -1112,6 +1142,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-01-22 20:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
     },
     "done": true
   },
@@ -1256,6 +1292,12 @@
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 02:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
     },
     "done": true
   },
@@ -1973,6 +2015,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-01-27 16:04:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-01-20 20:12:17 +0000"
@@ -2141,6 +2189,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-01-27 16:08:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-01-20 20:12:17 +0000"
@@ -2216,6 +2270,12 @@
   "cfm:recipes/cfm/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-01-22 03:15:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-01-27 16:08:02 +0000"
     },
     "done": true
   },
@@ -2375,6 +2435,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-01-27 16:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-20 20:10:10 +0000"
@@ -2384,6 +2450,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 02:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
     },
     "done": true
   },
@@ -2402,6 +2474,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-20 19:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
     },
     "done": true
   },
@@ -2588,6 +2666,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-25 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2025-01-27 16:08:02 +0000"
     },
     "done": true
   },
@@ -3078,6 +3162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-22 02:03:54 +0000"
@@ -3357,6 +3447,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-01-27 16:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-25 01:14:25 +0000"
@@ -3378,6 +3474,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-20 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
     },
     "done": true
   },
@@ -3837,6 +3939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-20 20:08:27 +0000",
@@ -4102,6 +4210,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-22 02:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-27 16:07:58 +0000"
     },
     "done": true
   },
@@ -4506,6 +4620,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-20 21:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-27 16:03:47 +0000"
     },
     "done": true
   },
@@ -5148,6 +5268,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-20 19:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-01-27 16:08:02 +0000"
     },
     "done": true
   },

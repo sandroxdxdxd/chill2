@@ -540,3 +540,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [27Jan2025 15:40:54.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> neko afk comprar comida
 [27Jan2025 15:40:57.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
 [27Jan2025 15:43:02.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:43:27.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:44:02.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set 1000000000 experience levels on Elcovid19]
+[27Jan2025 15:45:57.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 was slain by Spider
+[27Jan2025 15:46:00.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[27Jan2025 15:46:02.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> xdxdxdxdxdxdxdxd
+[27Jan2025 15:47:15.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:47:26.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:47:57.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 15:48:05.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 15:49:47.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was blown up by Creeper
+[27Jan2025 15:49:53.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[27Jan2025 15:49:55.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> DXXDXDXDXDXDXD
+[27Jan2025 15:51:31.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 fell from a high place
+[27Jan2025 15:51:35.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Antonio_0610> xD
+[27Jan2025 15:56:17.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/53156, l='ServerLevel[world]', x=693.50, y=70.00, z=-1628.50]
+[27Jan2025 16:00:09.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ItsSebas was slain by Enderman
+[27Jan2025 16:00:16.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[27Jan2025 16:00:52.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 16:00:58.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 16:01:06.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mau_Mayito lost connection: Disconnected
+[27Jan2025 16:01:06.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito left the game
+[27Jan2025 16:01:28.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheLeonel51 lost connection: Disconnected
+[27Jan2025 16:01:28.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheLeonel51 left the game
+[27Jan2025 16:02:12.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ItsSebas> zmzmzmzmzmz
+[27Jan2025 16:02:15.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio_0610 lost connection: Disconnected
+[27Jan2025 16:02:15.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 left the game
+[27Jan2025 16:02:49.932] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2bd70cc
+[27Jan2025 16:02:49.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio_0610[/127.237.55.32:47989] logged in with entity id 55468 at (476.0173647339795, 69.0, -1452.1869826573754)
+[27Jan2025 16:02:49.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 joined the game
+[27Jan2025 16:02:49.956] [Server thread/INFO] [Waila/]: Syncing config to Antonio_0610 (fe22f6d9-79d0-3085-8343-5308fd0491b7)
+[27Jan2025 16:03:48.832] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c65302
+[27Jan2025 16:03:48.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mau_Mayito[/127.146.221.144:45153] logged in with entity id 55731 at (533.4166409404982, 71.0, -1347.9633249474061)
+[27Jan2025 16:03:48.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito joined the game
+[27Jan2025 16:03:48.853] [Server thread/INFO] [Waila/]: Syncing config to Mau_Mayito (3c93df30-50e8-3bf4-a846-5558dbbe37d9)
+[27Jan2025 16:04:59.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mau_Mayito> los otros caballos?
+[27Jan2025 16:05:13.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> XD
+[27Jan2025 16:05:22.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Elcovid19> ya murieron ya XD
+[27Jan2025 16:07:20.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Antonio_0610) moved wrongly! 0.29068087000877085
+[27Jan2025 16:07:20.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Antonio_0610) moved wrongly! 0.6734948944981689
+[27Jan2025 16:07:20.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Antonio_0610) moved wrongly! 1.149326210959005
+[27Jan2025 16:07:20.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Antonio_0610) moved wrongly! 1.6648455712403514
+[27Jan2025 16:07:58.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.29068364655836376
+[27Jan2025 16:07:58.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/57436, l='ServerLevel[world]', x=694.50, y=70.00, z=-1630.50]
+[27Jan2025 16:07:58.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.3319964670606055
+[27Jan2025 16:07:58.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.31150035532363063
+[27Jan2025 16:07:58.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Elcovid19) moved wrongly! 0.2822398405998001
+[27Jan2025 16:10:19.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[27Jan2025 16:10:22.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 16:10:25.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 16:11:27.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[27Jan2025 16:12:00.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[27Jan2025 16:12:01.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Elcovid19: Set own game mode to Survival Mode]

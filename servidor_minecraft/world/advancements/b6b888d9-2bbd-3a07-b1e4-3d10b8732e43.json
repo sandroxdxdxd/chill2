@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-20 19:12:56 +0000"
@@ -242,6 +248,18 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-01-24 02:57:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -1037,6 +1055,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-20 19:12:22 +0000"
@@ -1058,6 +1082,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-20 19:12:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -1166,6 +1196,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-20 20:11:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -1607,6 +1643,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-20 22:15:30 +0000"
@@ -1868,6 +1910,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-20 19:51:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -2471,6 +2519,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-01-20 20:00:22 +0000"
@@ -2759,6 +2813,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-20 22:00:45 +0000"
@@ -2879,6 +2939,12 @@
       "in_better_spider_dungeon": "2025-01-21 16:25:24 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
@@ -3227,6 +3293,12 @@
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-25 01:32:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -3687,6 +3759,12 @@
   "ecologics:recipes/ecologics/sandcastle": {
     "criteria": {
       "has_seashell": "2025-01-27 15:38:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -4156,6 +4234,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-20 19:12:22 +0000"
@@ -4219,6 +4303,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-01-27 15:09:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -4807,6 +4897,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-20 19:04:12 +0000"
@@ -4865,6 +4961,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-20 20:00:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
@@ -5123,6 +5225,12 @@
   "cfm:recipes/cfm/diorite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-20 19:12:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2025-01-27 15:55:30 +0000"
     },
     "done": true
   },
