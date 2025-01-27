@@ -443,12 +443,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 20:01:18 +0000"
@@ -719,12 +713,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
-  },
   "ecologics:recipes/ecologics/walnut_slab": {
     "criteria": {
       "has_walnut_planks": "2025-01-20 19:02:54 +0000"
@@ -964,12 +952,6 @@
       "has_gold_ingot": "2025-01-20 20:10:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
@@ -2039,12 +2021,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-20 20:57:32 +0000"
@@ -2506,12 +2482,6 @@
       "has_andesite": "2025-01-20 19:14:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
@@ -3870,12 +3840,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 20:01:18 +0000"
@@ -3944,12 +3908,6 @@
       "has_iron_ingot": "2025-01-20 19:51:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
@@ -4142,12 +4100,6 @@
       "has_wheat": "2025-01-20 22:00:45 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
@@ -4619,12 +4571,6 @@
       "has_bucket": "2025-01-21 16:54:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
@@ -5268,12 +5214,6 @@
       "has_iron_ingot": "2025-01-20 19:51:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 15:10:00 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
