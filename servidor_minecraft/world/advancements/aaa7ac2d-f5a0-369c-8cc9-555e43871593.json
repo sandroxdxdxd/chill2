@@ -770,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-27 15:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-01-21 18:52:35 +0000"
@@ -3007,6 +3013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-01-27 15:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 18:20:26 +0000"
@@ -4389,6 +4401,12 @@
   "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-22 19:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2025-01-27 15:38:15 +0000"
     },
     "done": true
   },

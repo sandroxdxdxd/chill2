@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/has_crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_crab_claw": "2025-01-27 15:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-22 19:14:55 +0000"
@@ -351,6 +357,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 19:28:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "has_crab_claw": "2025-01-27 15:33:10 +0000"
     },
     "done": true
   },
@@ -983,6 +995,12 @@
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-24 03:26:33 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/has_crab_meat_from_smoking": {
+    "criteria": {
+      "has_crab_claw": "2025-01-27 15:33:10 +0000"
     },
     "done": true
   },

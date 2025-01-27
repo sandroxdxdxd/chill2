@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2025-01-27 15:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-20 20:01:18 +0000"
@@ -1664,6 +1670,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-20 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2025-01-27 15:38:19 +0000"
     },
     "done": true
   },
@@ -3672,6 +3684,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2025-01-27 15:38:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_table": {
     "criteria": {
       "has_log": "2025-01-20 19:09:10 +0000"
@@ -3886,6 +3904,7 @@
       "minecraft:dripstone_caves": "2025-01-26 17:55:52 +0000",
       "minecraft:jagged_peaks": "2025-01-20 21:14:21 +0000",
       "minecraft:forest": "2025-01-22 21:35:41 +0000",
+      "minecraft:ocean": "2025-01-27 15:37:28 +0000",
       "minecraft:flower_forest": "2025-01-22 20:00:52 +0000",
       "minecraft:plains": "2025-01-20 18:48:03 +0000"
     },
