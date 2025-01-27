@@ -3134,6 +3134,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-27 14:36:15 +0000",
       "minecraft:skeleton": "2025-01-22 02:25:39 +0000",
       "minecraft:spider": "2025-01-22 02:25:00 +0000",
       "minecraft:creeper": "2025-01-22 02:24:32 +0000",
@@ -3204,6 +3205,12 @@
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-22 02:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-27 14:36:15 +0000"
     },
     "done": true
   },
