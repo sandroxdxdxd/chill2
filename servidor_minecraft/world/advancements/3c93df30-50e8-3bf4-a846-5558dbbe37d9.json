@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-28 00:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-22 18:55:36 +0000"
