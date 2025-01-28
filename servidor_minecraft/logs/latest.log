@@ -158,3 +158,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [28Jan2025 00:07:58.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=27, z=-207} BlockPos{x=-21, y=25, z=-204}
 [28Jan2025 00:08:53.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Antonio_0610 was slain by Zombified Piglin
 [28Jan2025 00:08:57.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mau_Mayito was slain by Zombified Piglin
+[28Jan2025 00:17:25.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62edda12
+[28Jan2025 00:17:25.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:49707] logged in with entity id 3255 at (281.7451171809444, 107.0, -1360.336438521167)
+[28Jan2025 00:17:25.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
+[28Jan2025 00:17:25.432] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
