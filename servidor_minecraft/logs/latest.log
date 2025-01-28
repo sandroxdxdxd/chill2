@@ -162,3 +162,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:black_tea_leav
 [28Jan2025 00:17:25.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GoldenLeon98[/127.99.102.143:49707] logged in with entity id 3255 at (281.7451171809444, 107.0, -1360.336438521167)
 [28Jan2025 00:17:25.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 joined the game
 [28Jan2025 00:17:25.432] [Server thread/INFO] [Waila/]: Syncing config to GoldenLeon98 (b6b888d9-2bbd-3a07-b1e4-3d10b8732e43)
+[28Jan2025 00:37:29.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GoldenLeon98 lost connection: Disconnected
+[28Jan2025 00:37:29.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GoldenLeon98 left the game
+[28Jan2025 00:39:47.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=19, z=-180} BlockPos{x=19, y=19, z=-181}
+[28Jan2025 00:39:52.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=19, z=-185} BlockPos{x=15, y=19, z=-186}
+[28Jan2025 00:39:52.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=19, z=-185} BlockPos{x=15, y=19, z=-186}
+[28Jan2025 00:39:52.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=19, z=-185} BlockPos{x=15, y=19, z=-186}
+[28Jan2025 00:40:33.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=14, z=-195} BlockPos{x=22, y=13, z=-195}
